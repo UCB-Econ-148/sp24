@@ -1,0 +1,69 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Econ 148
+description: Data Science for Economists
+author: Econ 148 Team, Yiyang Chen
+email: yiyangc@berkeley.edu
+baseurl: '/sp23' # the subpath of your site, e.g. /blog
+url: 'https://www.econ148.org' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: "/148_logo.png"
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs@v0.2.5-release
+color_scheme: light
+search_enabled: true
+permalink: pretty
+nav_links:
+  Links:
+    Ed:
+      - 'https://edstem.org/us/courses/34369/discussion/'
+    DataHub:
+      - 'https://datahub.berkeley.edu'
+    Gradescope:
+      - 'https://www.gradescope.com/courses/487793'
+    Anonymous Feedback:
+      - 'https://forms.gle/hkgAjKGh9NtFRA1k9'
+aux_links:
+  # 'Kevin Lin':
+  #   - 'https://kevinl.info'
+  # 'Just the Class on GitHub':
+  #   - 'https://github.com/kevinlin1/just-the-class'
+footer: >-
+  Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
+
+# Collections for website data
+collections:
+  - modules
+  - announcements
+  - staffers
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
