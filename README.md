@@ -1,8 +1,12 @@
-## ECON 148 Spring 2023 website
+## ECON 148 website template
+
+<!---
+The following are the shields that display the status of the website. To use, replace <repo_name> with the repo name (e.g. sp23). 
+-->
 <div>
-    <img alt="deployment_status" src="https://img.shields.io/github/deployments/UCB-Econ-148/sp23/github-pages?label=deployment%20status">
-    <img alt="website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fwww.econ148.org%2Fsp23%2F">
-    <img alt="last_commit" src="https://img.shields.io/github/last-commit/UCB-Econ-148/sp23">
+    <img alt="deployment_status" src="https://img.shields.io/github/deployments/UCB-Econ-148/<repo_name>/github-pages?label=deployment%20status">
+    <img alt="website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fwww.econ148.org%2F<repo_name>%2F">
+    <img alt="last_commit" src="https://img.shields.io/github/last-commit/UCB-Econ-148/<repo_name>">
 </div>
 
 
