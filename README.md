@@ -6,8 +6,6 @@
 </div>
 
 
-
-
 ### Getting Started for Staff
 This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website in general, though it was for a different class.
 
@@ -18,6 +16,15 @@ Go to `_staffers` and edit the markdown file for the corresponding staff. You ca
 3. Syllabus and Resources can be edited in the corresponding markdown files.   
 
 Note to staff: **Always** pull changes before making any edits. 
+
+
+### Setting up Repo for New Semester
+1. Clone the website-base repository.
+2. Edit the `baseurl` field in `_config.yml` to the repo name.
+3. Update the links in `_config.yml`.
+4. Run the script `init.py` and follow the instructions displayed. Running this script will automatically generate weekly schedule markdowns for the `_modules` folder. 
+5. Edit other files manually (`index.md`, `syllabus.md`, `enrollment.md`, `calendar.md`, etc)
+6. Add hyperlink of the new semester webpage to `index.md` in UCB-Econ-148.github.io. 
 
 <br>
 
@@ -76,7 +83,7 @@ Install Ruby 2.2.0:
 
 Clone this repo:
 
-    git clone https://github.com/UCB-Econ-148/sp23.git
+    git clone https://github.com/UCB-Econ-148/website-base.git
 
 In the repo directory, run:
 
