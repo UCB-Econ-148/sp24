@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Group Project
-nav_order: 6
+nav_exclude: true
+# nav_order: 6
 description: Group project instructions, specifications, and rubrics. 
 ---
 

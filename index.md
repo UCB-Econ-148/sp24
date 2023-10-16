@@ -3,13 +3,13 @@ layout: page
 title: Home
 nav_order: 1
 description: >-
-    Data Science for Economists, UC Berkeley, Spring 2023
-currWeekNumber: 15
+    Data Science for Economists, UC Berkeley, Spring 2024
+currWeekNumber: 1
 ---
 
 # Data Science for Economists
 {: .mb-2 }
-UC Berkeley, Spring 2023
+UC Berkeley, Spring 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 {: .mb-2 }
@@ -17,7 +17,7 @@ UC Berkeley, Spring 2023
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .mb-3 }
-**Lecture:** MWF 1PM-2PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/34369/discussion/)
+**Lecture:** TuTh 2:00 - 3:29 PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/34369/discussion/)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 <div>
