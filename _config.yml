@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Econ 148
 description: Data Science for Economists
-author: Econ 148 Team, Yiyang Chen
+author: Econ 148 Team
 email: yiyangc@berkeley.edu
-baseurl: '/sp23' # the subpath of your site, e.g. /blog
+baseurl: '/sp24' # the subpath of your site, e.g. /blog
 url: 'https://www.econ148.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/148_logo.png"
