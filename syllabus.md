@@ -22,11 +22,13 @@ description: Course structure and policies.
 
 This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you're not sure how to access it.
 
-**We will not be using bCourses at all in this class**; this website and Ed serve as replacements.
+**Important Note:** Staff will not be answering content questions on Ed. Ed is supposed to be a student-run platform in this class; students are encouraged to answer content-related questions instead. Your activity on Ed will be taken into account for your participation grade.
+
+We will not be using bCourses at all in this class; this website and Ed serve as replacements.
 
 ---
 
-## Logistics 📆
+<!-- ## Logistics 📆
 
 **Lecture:** Valley Life Sciences 2060 on Mondays, Wednesdays, and Fridays from 1PM-2PM
 
@@ -34,9 +36,11 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussio
 
 **Office Hours:** Throughout the week, see [Ed](https://edstem.org/us/courses/34369/discussion/) for more detail.
 
-Lectures, discussion sections, and office hours will be hosted in-person by default. We'll post updates in [this post on Ed](https://edstem.org/us/courses/34369/discussion/) and send out announcements if there's any changes. 
+Lectures, discussion sections, and office hours will be hosted in-person by default. We'll post updates in [this post on Ed](https://edstem.org/us/courses/34369/discussion/) and send out announcements if there's any changes.  
 
 ---
+
+-->
 
 ## About 🧐
 
@@ -60,19 +64,22 @@ The rough topic breakdown is as follows:
 - Cleaning and Wrangling Data 
 - Visualization - Matplotlib / Seaborn / Plotly / Geopandas
 - Preparing Dataset for Econometric Analysis
+- Survival Analysis
 - Time Series 
-- Intro to ML - Survival Analysis, Classification Techniques
+- Introduction to ML
 
 Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we will link supplementary readings. 
 
-Also, note that the course will emphasize the use of real-world data. Some possible datasets include  
+<!-- There is a work-in-progress textbook -->
+
+Also, note that the course will emphasize the use of real-world data. Some possible datasets include:  
 - IPUMS microdata on outcomes of college education
 - FRED data on macro indicators 
 - Zillow data on cost of housing 
 - Who owns real estate in Dubai 
 - Telco Churn / Credit Risk
 
-You will leave the course being able to independently apply the skills you've learned to datasets of your own choosing. 
+You will leave the course being able to independently apply the skills you've learned to datasets of your own choosing.
 
 ---
 
@@ -80,7 +87,7 @@ You will leave the course being able to independently apply the skills you've le
 
 ### Lecture
 
-There will be three lectures a week. In lectures, we'll introduce you to new ideas and concepts in data science oriented for economists. **Lecture attendance is a part of your participation grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course.
+There will be two lectures a week. In lectures, we'll introduce you to new ideas and concepts in data science oriented for economists. Lecture attendance and participation is a part of your participation grade; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course.
 
 During each lecture, there will be a point (or more) at which we stop and ask you to answer a short question via [Poll Everywhere](https://pollev.com/). We call these questions **Quick Checks**. They serve three purposes:
 1. For us to get a gauge of how well the class understands the material we're currently covering
@@ -89,23 +96,19 @@ During each lecture, there will be a point (or more) at which we stop and ask yo
 
 **Quick Checks are graded on completion, not correctness.** It's not important to get these questions right on your first try – but it's important to try them. You will be given time in lecture to answer them.
 
-**Participation in lectures counts towards your participation credits. But you only need to attend 75% of all class sections to receive full attendance credit. (See Policies for details)**
-
 <br>
 
 ### Discussion Section
 
-There is one discussion section a week that is held by Yiyang and Peter, our UGSIs. This will count towards your participation points. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and final. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
+There is one discussion section a week that is held by Peter and Rohan, our UGSIs. Discussion attendance and activity is a part of your participation grade, and **the midterm will likely be heavily based on the section material**. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and projects. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
 
-Several sections will continue into office hours, where you're welcome to ask individual questions or comments on the course so far. 
+<!-- Several sections will continue into office hours, where you're welcome to ask individual questions or comments on the course so far. -->
 
 Expectations towards the students:  
-- Participation in class activity. To gain your participation point, you are expected to fill out a short quiz during each section.   
+- Participation in class activity. This is incredibly important; the entire class will benefit from a highly collaborative environment while learning data science.
 - Academic Integrity and Honesty per the Berkeley Honor Code. 
 - Accommodations are done through the office of DSP in due time prior to the start of the event where accommodations are needed. 
 - Should technical support be needed, please contact Student Technological Services ahead of time. You'll need either a laptop/mac or a large tablet in this class.
-
-**Participation in discussion sections counts towards your participation credits. But you only need to attend 75% of all class sections to receive full attendance credit. (See Policies for details)**
 
 <br>
 
@@ -113,9 +116,9 @@ Expectations towards the students:
 
 You learn data science by **doing** data science, not by listening or reading about it. As such, labs and projects will be your primary source of learning in this class.
 
-Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you're on the right track or not, but most local autograders are not comprehensive–we will have additional hidden tests when you submit your labs and projects. Most labs and projects will also include a few "written" problems, where you have to type your answer in text. These problems will be manually graded.
+Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you're on the right track or not. However, for the projects, the local autograders are not comprehensive – we will have additional hidden tests. Most labs and projects will also include a few "written" problems, where you have to type your answer in text. These problems will be manually graded.
 
-There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released on Sunday evenings, and will be due the following Tuesday midnights (11:59PM). See the Policies section for our extensions and late submissions policy, as well as our drop policy.
+There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released after lectures on Tuesdays. Labs will be due the following Wednesday at midnight (11:59PM), and projects will be due several weeks later at Wednesday at midnight. See the Policies section for our extensions and late submissions policy, as well as our drop policy.
 
 All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. 
 
@@ -125,18 +128,15 @@ All lab and project assignments should be completed individually except Project 
 
 In addition to lectures and labs, we will host several office hours a week. In office hours, you'll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. 
 
-Furthermore, you're encouraged to ask and answer questions about assignments and concepts on Ed. Make a private post if you want to post your code for debugging. 
+Furthermore, you're encouraged to ask and answer questions about assignments and concepts on Ed. As a reminder, Ed will be a student-run forum this semester and you are expected to answer questions on Ed.
 
 <br>
 
 ### Exams
 
-We will have an in-class midterm on **March 10th** that covers the first half of the course materials. The midterm is worth 15% of your total grade. 
-
-The final exam will be on **May 9th** and it will be cumulative. The final is worth 25% of your total grade. 
+We will have an in-class midterm that covers the first half of the course materials. <!-- The midterm is worth 15% of your total grade. -->
 
 More relevant logistics for exams will be announced on Ed.
-
 
 ---
 
@@ -145,10 +145,11 @@ More relevant logistics for exams will be announced on Ed.
 We will be using several websites this semester. Here's what they're all used for:
 
 - [Course Website](http://www.econ148.org): where all content will be posted.
+- [Textbook](http://www.econ148.org/textbook): textbook that accompanies the course.
 - [Ed](https://edstem.org/us/courses/34369/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. 
-- [DataHub](http://datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.)
-- [Gradescope](https://www.gradescope.com/courses/487793): where all labs and projects are submitted and all grades live. (Not bCourses! 🙅)
-- [Poll Everywhere](https://pollev.com/) : this is where we will do class checks and attendance checks! 
+- [DataHub](http://data100.datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.) <!-- make PR with new packages-->
+- [Gradescope](https://www.gradescope.com/): where all labs and projects are submitted and all grades live. (Not bCourses! 🙅)
+- [Poll Everywhere](https://pollev.com/ericvandusen) : this is where we will do class checks and attendance checks! 
 
 ---
 
@@ -160,47 +161,43 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Participation | 10% | Including lectures, discussion sections, and surveys |
-| Labs | 20% | 1 lab drop |
-| Projects | 30% | no drops |
-| Midterm | 15% | |
-| Final | 25% | |
+| Participation | 15% | Including lectures, discussion sections, and Ed |
+| Labs | 25% | 1 lab drop |
+| Projects 1 + 2| 20% | no drops |
+| Project 3| 15% | |
+| Midterm | 25% | |
 
-**Participation**
+#### Participation
 
-Starting in the second week of class, attendance will be taken. Each week, there are four class sessions – three lectures and one discussion. Each class session you attend earns you 1 point. Attendance will be taken using polls during lectures and discussion sections. 
+Attendance will be taken for all lectures and discussions, and Ed activity will be tracked. In addition, we will take into account lecture and discussion *activity* beyond just attendance; people who actively participate will be given a higher score. 
 
-There are a total of 50 available participation points–37 lectures and 13 discussion sections. **37 participation points (about 75% of attendance) are required for full credit**. 
-
-This means that you can miss one class session per week on average and still receive full credit for participation. We expect you to attend all class sessions; this policy is meant to provide leniency for the times that you're unable to make it.
-
-**Surveys**
+#### Surveys
 
 Since this is a new class, we're very interested in receiving your feedback as to how it's going and how we can improve. 
 
-As such, we will have feedback surveys for you to fill out a few times this semester. These will be hosted on Google Forms, and will be posted on both the course homepage and on Ed. There is also a [feedback form](https://forms.gle/hkgAjKGh9NtFRA1k9) where you can share your feedback anonymously. 
+As such, we will have feedback survey for you to fill out at the end of very lab. These are a part of your lab grade, and you get a score for completing them (although they're completely anonymous). There is also a general [feedback form](https://forms.gle/hkgAjKGh9NtFRA1k9) where you can share your feedback anonymously at any point throughout the semester. <!-- update forms -->
 
-There are no drops for these, but we will be lenient with their deadlines.
+#### Labs
 
-**Labs**
-
-There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). Free response questions will be graded by completion and effort. 
+There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). One free response question will be randomly selected for manual grading in each lab. This free response question will count for 10 to 20% of your grade for that respective lab.
 
 You will have 1 lab drop to be used at any time throughout the semester.
 
-**Projects**
+#### Projects
 
-There will be 3 projects in total and all projects are weighted equally. Projects are graded by correctness. There will be hidden tests for projects. 
+There will be 3 projects in total. Projects 1 and 2 have a weight of 10% each, while project 3 has a weight of 15%. Projects are graded by correctness (both the autograded and the free-response questions). There will be hidden tests for projects. 
 
 <br>
 
 ### Late Policy and Extensions
 
-Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small, undisclosed grace period to account for any technical difficulties; if you face any issues while submitting, please post on Ed ASAP (ideally before the deadline).
+Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small grace period of 3 minutes (until 12:02 am) to account for any technical difficulties. It is your responsibility to be proactive about your submissions; staff are not expected to be active on midnight to help you with submission issues.
 
 Students are allowed to submit labs and projects late for a 50% penalty within 48 hours after they are due, after which they will receive no credit. We will factor in late submissions when we're calculating grades at the end of the semester.
 
-**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please make a private post on Ed with the reason for your request and number of days you're requesting an extension for. As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to email the instructor for extensions, but not with a reason.
+**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please submit this google form as soon as possible (definitely before the deadline). As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required.
+
+<!-- add google form -->
 
 <br>
 
@@ -218,6 +215,8 @@ Make a serious attempt at every assignment yourself. If you get stuck, read the 
 
 You are also not permitted to turn in answers or code that you have obtained from others. Not only is such copying dishonest, it misses the point of the assignments, which is not for you to find the answers somewhere and send them along to the staff. It is for you to figure out how to solve the problems, with the support available in the course.
 
+The landscape of using AI for help with coding is rapidly changing. To succeed in the class, you will need to learn fundamental concepts without assistance from AI. For one example, you will not be allowed to use AI for the in-class, handwritten midterm. Use common sense and cite any AI you do use. Flagrant and obvious use of AI will not demonstrate your understanding of the concept and will lead to grading penalties. We have all used AI for help with coding, and we have seen that using AI without a solid understanding of the fundamentals can lead to incorrect, buggy and inefficient code.
+
 Please read [Berkeley's Code of Conduct](https://conduct.berkeley.edu/code-of-conduct/) carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the [Center for Student Conduct](https://conduct.berkeley.edu/). They might also include a F in the course or even dismissal from the university. It's just not worth it.
 
 Data science is a collaborative activity. As such, we encourage you to discuss assignments with others. Go on Ed and discuss with other students. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
@@ -233,7 +232,7 @@ The instructor and course staff are committed to creating an inclusive learning 
 To help accomplish this:  
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with the instructor or course staff. We are here to be a resource for you.
 - We are here to learn, and sometimes along the way we make mistakes. If something is said in class that makes you feel uncomfortable, please come and talk to the instructor or course staff about it.
-- As a participant in this class, you should strive to respect the diversity of your classmates.
+- As a participant in this class, you should strive to respect the diversity and experiences of your classmates.
 
 <br>
 
