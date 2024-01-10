@@ -30,10 +30,10 @@ UC Berkeley, Spring 2024
 </div>
 
 <!-- [Zoom links](https://edstem.org/us/courses/25130/discussion/2076738){: .btn .btn-purple }  -->
-[Lecture recordings](https://kaltura.berkeley.edu/channel/Econ148-SP23-DSXEcon/288222162){: .btn .btn-blue } [Lecture PollEV](https://pollev.com/ericvandusen){: .btn .btn-purple }
+[Textbook](econ148.org/textbook){: .btn .btn-blue } [Lecture PollEV](https://pollev.com/ericvandusen){: .btn .btn-purple }
 
 + The schedule and dates listed below are tentative and may be subject to change. 
-+ All announcements are on [Ed](https://edstem.org/us/courses/34369/discussion/). Make sure you are enrolled and active there.
++ All announcements are on Ed. Make sure you are enrolled and active there.
 + The [Syllabus](./syllabus) contains a detailed explanation of how each course component will work this semester
 + If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. 
 
