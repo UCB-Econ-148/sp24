@@ -207,7 +207,7 @@ Students are allowed to submit labs and projects late for a 50% penalty within 4
 
 ### Regrade Requests
 
-When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed outside of the designated regrade window will not be considered.
+When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed or are made outside of the designated regrade window will not be considered.
 
 <br>
 
