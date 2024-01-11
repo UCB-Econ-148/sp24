@@ -20,7 +20,7 @@ baseurl: '/sp24' # the subpath of your site, e.g. /blog
 url: 'https://www.econ148.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: '/148_logo.png'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: "images/logo.png"
+logo: "images/logo_nobg.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
