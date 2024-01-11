@@ -5,6 +5,10 @@ nav_order: 4
 description: Resources to help you throughout the semester.
 ---
 
+# <span style="color:red"> ⚠️ Webpage Under Construction</span>
+
+**Note:** The resources are not finalized yet. They can change at any point until the start of classes. Thank you for your patience.
+
 # Resources 💻
 
 There is no textbook for this course. Instead, we're designing the lectures so that they contain everything you'll need to know for the course. With that said, many students benefit from having textbook-style readings, so we've linked some in the course homepage and also include a few more resources below.
