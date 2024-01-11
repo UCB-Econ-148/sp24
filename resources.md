@@ -25,7 +25,7 @@ The following resources can be helpful for you to study for exams.
 
 | Semester | Midterm | Final |
 | --- | --- | --- |
-| Spring 2023 | [Exam](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt-sol-v3.pdf)) | |
+| Spring 2023 | [Exam](https://drive.google.com/file/d/1jxz1SmqidKlkgul4okuogQzeTC8Re-co/view?usp=sharing) ([Solutions](https://drive.google.com/file/d/1MvOErnR37l4cCD3K9ytGHwzpQl9nKmw5/view?usp=sharing)) | [Data Task](https://drive.google.com/file/d/1hRDgJeW8w8GzKVDvEPYQHIZwQWSYH7Vr/view?usp=sharing)([Data Task Solutions](https://drive.google.com/file/d/1gdei3ykEwEY5NgR7-GBu1Nnm-CVb_xQS/view?usp=sharing), [Conceptual Solutions](https://drive.google.com/file/d/181BDgEC_ZYw_dNbTvOKt2ySJWOvsgDSd/view?usp=sharing))|
 
 ### Midterm
 - The discussions!
