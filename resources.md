@@ -28,15 +28,10 @@ The following resources can be helpful for you to study for exams.
 | Spring 2023 | [Exam](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt-sol-v3.pdf)) | |
 
 ### Midterm
+- The discussions!
 - [Review Slides (Spring 2023)](https://docs.google.com/presentation/d/1DK0rMV_diPzd3RD61yTfJ996Nzx5nwhAhKJskxKUZq8/edit?usp=sharing)
 - [Reference Sheet](https://www.econ148.org/sp23/resources/assets/midterm/reference-sheet.pdf)
 - [Example Questions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples-sol.pdf))
-
-### Final
-Stay tuned!
-
-
-
 
 ## Supplementary Readings
 
