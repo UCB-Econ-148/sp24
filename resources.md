@@ -5,13 +5,11 @@ nav_order: 4
 description: Resources to help you throughout the semester.
 ---
 
-# <span style="color:red"> ⚠️ Webpage Under Construction</span>
-
-**Note:** The resources are not finalized yet. They can change at any point until the start of classes. Thank you for your patience.
-
 # Resources 💻
 
-There is no textbook for this course. Instead, we're designing the lectures so that they contain everything you'll need to know for the course. With that said, many students benefit from having textbook-style readings, so we've linked some in the course homepage and also include a few more resources below.
+## Textbook
+
+We've got a [textbook](https://www.econ148.org/textbook/content/intro.html) for this course! It's written by our wonderful uGSI Rohan Jha, and is a massive resource to build a solid foundation of data science for economists. We'll make sure to link relevant readings as the course progresses, but feel free to read ahead. 
 
 ## Documentation
 
@@ -22,7 +20,6 @@ Official resources for you to refer to:
 - [NumPy documentation](https://numpy.org/doc/stable/)
 - [Pandas documentation](https://pandas.pydata.org/docs/index.html)
 
-
 ## Exam Resources
 The following resources can be helpful for you to study for exams.
 
@@ -31,7 +28,7 @@ The following resources can be helpful for you to study for exams.
 | Spring 2023 | [Exam](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt-sol-v3.pdf)) | |
 
 ### Midterm
-- [Review Slides](https://docs.google.com/presentation/d/1DK0rMV_diPzd3RD61yTfJ996Nzx5nwhAhKJskxKUZq8/edit?usp=sharing)
+- [Review Slides (Spring 2023)](https://docs.google.com/presentation/d/1DK0rMV_diPzd3RD61yTfJ996Nzx5nwhAhKJskxKUZq8/edit?usp=sharing)
 - [Reference Sheet](https://www.econ148.org/sp23/resources/assets/midterm/reference-sheet.pdf)
 - [Example Questions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples-sol.pdf))
 

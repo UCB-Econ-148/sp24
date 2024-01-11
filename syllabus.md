@@ -199,9 +199,7 @@ Assignments are due to Gradescope at 11:59PM on the day that they are due. We wi
 
 Students are allowed to submit labs and projects late for a 50% penalty within 48 hours after they are due, after which they will receive no credit. We will factor in late submissions when we're calculating grades at the end of the semester.
 
-**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please submit this google form as soon as possible (definitely before the deadline). As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required.
-
-<!-- Rohan: add google form in the format you wanted -->
+**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please submit [this google form](https://forms.gle/P5zYy4gXzvhzZeA96) as soon as possible (definitely before the deadline). As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required.
 
 <br>
 
