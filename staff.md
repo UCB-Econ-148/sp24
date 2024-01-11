@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff 🧑‍🏫
 
-See [this post](https://edstem.org/us/courses/34369/discussion/) on Ed for the most up-to-date office hours schedule and Zoom links.
+<!-- See [this post](https://edstem.org/us/courses/34369/discussion/) on Ed for the most up-to-date office hours schedule and Zoom links. -->
 
 ## Instructor
 

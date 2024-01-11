@@ -1,13 +1,12 @@
 ---
-    title: 6. 
-    weekNumber: 6
-    days:
-      - date: 2024-02-20
-        events:
-          "**11**{: .label .label-gray } Lecture 11":
-            "**11**{: .label .label-ghost } slides • video"
-      - date: 2024-02-22
-        events:
-          "**12**{: .label .label-gray } Lecture 12":
-            "**12**{: .label .label-ghost } slides • video"
+title: Week 6
 ---
+
+February 20
+: **Lecture 11**{: .label .label-lecture }
+
+
+February 22
+: **Lecture 12**{: .label .label-lecture }
+
+

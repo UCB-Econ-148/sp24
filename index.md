@@ -12,12 +12,19 @@ currWeekNumber: 1
 UC Berkeley, Spring 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
+[PollEV](https://pollev.com/ericvandusen){: .btn .btn-purple }
+[Ed](https://edstem.org/us/courses//discussion/){:target="_blank" .btn .btn-ed .mr-1 }
+[Gradescope](https://www.gradescope.com/courses/){:target="_blank" .btn .btn-gradescope .mr-1 }
+[Lectures Recordings](https://youtube.com/playlist?list=PLQCcNQgUcDfr24xMKf9uY3Nclj2gX0CQD&si=OopnvW3jasaYWx6W){:target="_blank" .btn .btn-youtube .mr-1}
+[Extenuating Circumstances](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank" .btn .btn-blue .mr-1 } 
+[Anonymous Feedback](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank" .btn .btn-datahub .mr-1 } 
+
 {: .mb-2 }
 **Instructor:** Eric Van Dusen (<a>ericvd@berkeley.edu</a>)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .mb-3 }
-**Lecture:** TuTh 2:00 - 3:29 PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/34369/discussion/)
+**Lecture:** TuTh 2:00 - 3:29 PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses//discussion/)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 <div>
@@ -28,9 +35,6 @@ UC Berkeley, Spring 2024
     {% endfor %}
   </div>
 </div>
-
-<!-- [Zoom links](https://edstem.org/us/courses/25130/discussion/2076738){: .btn .btn-purple }  -->
-[Textbook](https://www.econ148.org/textbook){: .btn .btn-blue } [Lecture PollEV](https://pollev.com/ericvandusen){: .btn .btn-purple }
 
 + The schedule and dates listed below are tentative and may be subject to change. 
 + All announcements are on Ed. Make sure you are enrolled and active there.

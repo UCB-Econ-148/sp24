@@ -1,13 +1,11 @@
 ---
-    title: 9. 
-    weekNumber: 9
-    days:
-      - date: 2024-03-12
-        events:
-          "**17**{: .label .label-gray } Lecture 17":
-            "**17**{: .label .label-ghost } slides • video"
-      - date: 2024-03-14
-        events:
-          "**18**{: .label .label-gray } Lecture 18":
-            "**18**{: .label .label-ghost } slides • video"
+title: Week 9
 ---
+
+March 12
+: **Lecture 17**{: .label .label-lecture }
+
+
+March 14
+: **Lecture 18**{: .label .label-lecture }
+

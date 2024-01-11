@@ -1,13 +1,13 @@
 ---
-    title: 2. 
-    weekNumber: 2
-    days:
-      - date: 2024-01-23
-        events:
-          "**3**{: .label .label-gray } Lecture 3":
-            "**3**{: .label .label-ghost } slides • video"
-      - date: 2024-01-25
-        events:
-          "**4**{: .label .label-gray } Lecture 4":
-            "**4**{: .label .label-ghost } slides • video"
+title: Week 2
 ---
+
+January 23
+: **Lecture 3**{: .label .label-lecture }
+
+
+January 25
+: **Lecture 4**{: .label .label-lecture }
+
+
+

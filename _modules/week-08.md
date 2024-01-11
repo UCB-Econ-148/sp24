@@ -1,13 +1,11 @@
 ---
-    title: 8. 
-    weekNumber: 8
-    days:
-      - date: 2024-03-05
-        events:
-          "**15**{: .label .label-gray } Lecture 15":
-            "**15**{: .label .label-ghost } slides • video"
-      - date: 2024-03-07
-        events:
-          "**16**{: .label .label-gray } Lecture 16":
-            "**16**{: .label .label-ghost } slides • video"
+title: Week 8
 ---
+
+March 5
+: **Lecture 15**{: .label .label-lecture }
+
+
+March 7
+: **Lecture 16**{: .label .label-lecture }
+
