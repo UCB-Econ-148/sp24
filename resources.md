@@ -20,8 +20,8 @@ Official resources for you to refer to:
 - [NumPy documentation](https://numpy.org/doc/stable/)
 - [Pandas documentation](https://pandas.pydata.org/docs/index.html)
 
-## Exam Resources
-The following resources can be helpful for you to study for exams.
+## Past Exams
+Here is a collection of our prior exams.
 
 | Semester | Midterm | Final |
 | --- | --- | --- |
