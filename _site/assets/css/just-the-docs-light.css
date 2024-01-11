@@ -301,7 +301,7 @@ blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padd
 @media (min-width: 31.25rem) { .site-title { font-size: 24px !important; line-height: 1.25; } }
 @media (min-width: 50rem) { .site-title { padding-top: 0.5rem; padding-bottom: 0.5rem; } }
 
-.site-logo { width: 100%; height: 100%; background-image: url("/sp24-testing/images/148_logo.png"); background-repeat: no-repeat; background-position: left center; background-size: contain; }
+.site-logo { width: 100%; height: 100%; background-image: url("/sp24/images/logo_nobg.png"); background-repeat: no-repeat; background-position: left center; background-size: contain; }
 
 .site-button { display: flex; height: 100%; padding: 1rem; align-items: center; }
 
@@ -2387,10 +2387,10 @@ a { color: #2869e6; }
 
 .label-Head { background-color: #3D348B; color: white; }
 
-.btn-datahub { color: #fff; background-color: #f58600; background-image: linear-gradient(#ff981a, #f58600); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
-.btn-datahub:hover, .btn-datahub.zeroclipboard-is-hover { color: #fff; background-color: #eb8100; background-image: linear-gradient(#ff910a, #eb8100); }
-.btn-datahub:active, .btn-datahub.selected, .btn-datahub.zeroclipboard-is-active { background-color: #e67e00; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
-.btn-datahub.selected:hover { background-color: #cc7000; }
+.btn-feedback { color: #fff; background-color: #f58600; background-image: linear-gradient(#ff981a, #f58600); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
+.btn-feedback:hover, .btn-feedback.zeroclipboard-is-hover { color: #fff; background-color: #eb8100; background-image: linear-gradient(#ff910a, #eb8100); }
+.btn-feedback:active, .btn-feedback.selected, .btn-feedback.zeroclipboard-is-active { background-color: #e67e00; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
+.btn-feedback.selected:hover { background-color: #cc7000; }
 
 .btn-ed { color: #fff; background-color: #8d00c9; background-image: linear-gradient(#a600ed, #8d00c9); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
 .btn-ed:hover, .btn-ed.zeroclipboard-is-hover { color: #fff; background-color: #8600bf; background-image: linear-gradient(#9b00dd, #8600bf); }
@@ -2402,7 +2402,7 @@ a { color: #2869e6; }
 .btn-gradescope:active, .btn-gradescope.selected, .btn-gradescope.zeroclipboard-is-active { background-color: #1d771d; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
 .btn-gradescope.selected:hover { background-color: #186218; }
 
-.btn-youtube { color: #fff; background-color: #f50000; background-image: linear-gradient(#ff1a1a, #f50000); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
-.btn-youtube:hover, .btn-youtube.zeroclipboard-is-hover { color: #fff; background-color: #eb0000; background-image: linear-gradient(#ff0a0a, #eb0000); }
-.btn-youtube:active, .btn-youtube.selected, .btn-youtube.zeroclipboard-is-active { background-color: #e60000; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
-.btn-youtube.selected:hover { background-color: #cc0000; }
+.btn-recordings { color: #fff; background-color: #f50000; background-image: linear-gradient(#ff1a1a, #f50000); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12); }
+.btn-recordings:hover, .btn-recordings.zeroclipboard-is-hover { color: #fff; background-color: #eb0000; background-image: linear-gradient(#ff0a0a, #eb0000); }
+.btn-recordings:active, .btn-recordings.selected, .btn-recordings.zeroclipboard-is-active { background-color: #e60000; background-image: none; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15); }
+.btn-recordings.selected:hover { background-color: #cc0000; }
