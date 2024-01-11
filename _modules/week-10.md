@@ -7,5 +7,5 @@ March 19
 
 
 March 21
-: **Lecture 20**{: .label .label-lecture }
+: **Midterm**{: .label .label-exam} Midterm 
 
