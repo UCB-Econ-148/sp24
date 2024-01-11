@@ -149,7 +149,7 @@ a {
   color: white;
 }
 
-.btn-datahub {
+.btn-feedback {
   @include btn-color($white, #FF8C00);
 }
 
@@ -161,6 +161,6 @@ a {
   @include btn-color($white, #228B22);
 }
 
-.btn-youtube {
+.btn-recordings {
   @include btn-color($white, #FF0000);
 }
