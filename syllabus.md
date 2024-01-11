@@ -18,10 +18,6 @@ description: Course structure and policies.
 
 ---
 
-# <span style="color:red"> ⚠️ Webpage Under Construction</span>
-
-**Note:** The policies are not finalized yet. They can change at any point until the start of classes. Thank you for your patience.
-
 ## Communication 💬
 
 This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you're not sure how to access it.
