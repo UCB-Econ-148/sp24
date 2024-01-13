@@ -63,7 +63,7 @@ The rough topic breakdown is as follows:
 - Exploratory Data Analysis
 - Cleaning and Wrangling Data 
 - Visualization - Matplotlib / Seaborn / Plotly / Geopandas
-- Preparing Dataset for Econometric Analysis
+- Preparing Datasets for Econometric Analysis
 - Survival Analysis
 - Time Series 
 - Introduction to ML
