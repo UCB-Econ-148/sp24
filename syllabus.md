@@ -20,7 +20,7 @@ description: Course structure and policies.
 
 ## Communication 💬
 
-This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you're not sure how to access it.
+This semester, we'll be using [Ed](https://edstem.org/us/courses/53352/discussion/) to communicate. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you're not sure how to access it.
 
 **Important Note:** Staff will not be answering content questions on Ed. Ed is supposed to be a student-run platform in this class; students are encouraged to answer content-related questions instead. Your activity on Ed will be taken into account for your participation grade.
 
@@ -146,9 +146,9 @@ We will be using several websites this semester. Here's what they're all used fo
 
 - [Course Website](http://www.econ148.org): where all content will be posted.
 - [Textbook](http://www.econ148.org/textbook): textbook that accompanies the course.
-- [Ed](https://edstem.org/us/courses/34369/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. 
+- [Ed](https://edstem.org/us/courses/53352/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. 
 - [DataHub](http://data100.datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.) <!-- make PR with new packages-->
-- [Gradescope](https://www.gradescope.com/): where all labs and projects are submitted and all grades live. (Not bCourses! 🙅)
+- [Gradescope](https://www.gradescope.com/courses/707898): where all labs and projects are submitted and all grades live. (Not bCourses! 🙅)
 - [Poll Everywhere](https://pollev.com/ericvandusen) : this is where we will do class checks and attendance checks! 
 
 ---
