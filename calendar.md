@@ -9,11 +9,9 @@ description: Calendars with times for course events.
 
 <a name='ohc'></a>
 
-## Office Hours Calendar
-
 To access office hours, go to the room in the location of the office hour slot you're planning on attending. **For some individual office hours, you will need to sign up for a 15-min time slots before attending them. For other drop-in office hours, you can just come to the location during the time of the office hours.** 
 
-We will make announcements on Ed if there're any changes to office hours. Some of the changes may not be reflected in the calendar below. 
+We will make announcements on Ed if there are any changes to office hours. Some of the changes may not be reflected in the calendar below. 
 
 Looking forward to seeing you in office hours!
 
