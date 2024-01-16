@@ -37,7 +37,7 @@ UC Berkeley, Spring 2024
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .mb-4 }        
-**Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/53352/discussion/4119934)
+**Office Hours:** see [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/53352/discussion/4119934)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .highlight }
