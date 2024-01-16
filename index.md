@@ -24,7 +24,7 @@ UC Berkeley, Spring 2024
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .mb-3 }
-**Lecture:** TuTh 2:00 - 3:29 PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/53352/discussion/)
+**Lecture:** TuTh 2:00 - 3:29 PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/53352/discussion/4119934)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 <div>
