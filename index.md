@@ -33,7 +33,7 @@ UC Berkeley, Spring 2024
 </div>
 
 {: .mb-3 }
-**Lecture:** Tuesday's and Thursday's, 2:00 - 3:29 PM, [Lewis 100](https://dac.berkeley.edu/lewis-hall)       
+**Lecture:** Tuesday's and Thursday's, 2:00 - 3:30 PM, [Lewis 100](https://dac.berkeley.edu/lewis-hall)       
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .mb-4 }        
