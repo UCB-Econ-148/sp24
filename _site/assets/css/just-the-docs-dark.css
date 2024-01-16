@@ -2449,7 +2449,7 @@ blockquote.highlight-title > p:last-child { margin-bottom: 0; }
 .main-content .module > dl .label-disc, .module > dl .label-disc { background-color: #498226; border-radius: 9px; }
 .main-content .module > dl .label-survey, .module > dl .label-survey { background-color: #aaaaaa; border-radius: 9px; }
 .main-content .module > dl .label-proj, .module > dl .label-proj { background-color: #FF8144; border-radius: 9px; }
-.main-content .module > dl .label-invis, .module > dl .label-invis { background-color: #f8fafa; border-radius: 9px; }
+.main-content .module > dl .label-invis, .module > dl .label-invis { background-color: #fff; border-radius: 9px; }
 
 .schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1rem -1rem; overflow-x: scroll; position: relative; }
 @media (min-width: 50rem) { .schedule { border-radius: 4px; margin: 1rem 0; } }
