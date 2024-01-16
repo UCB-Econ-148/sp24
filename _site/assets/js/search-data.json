@@ -8,536 +8,284 @@
   },"1": {
     "doc": "Calendar",
     "title": "Calendar",
-    "content": ". ",
+    "content": ". To access office hours, go to the room in the location of the office hour slot you’re planning on attending. For some individual office hours, you will need to sign up for a 15-min time slots before attending them. For other drop-in office hours, you can just come to the location during the time of the office hours. We will make announcements on Ed if there are any changes to office hours. Some of the changes may not be reflected in the calendar below. Looking forward to seeing you there! . Please log in to your Berkeley account to view the calendar. ",
     "url": "/sp24/calendar/",
     
     "relUrl": "/calendar/"
   },"2": {
-    "doc": "Calendar",
-    "title": "Office Hours Calendar",
-    "content": "To access office hours, go to the room in the location of the office hour slot you’re planning on attending. For some individual office hours, you will need to sign up for a 15-min time slots before attending them. For other drop-in office hours, you can just come to the location during the time of the office hours. We will make announcements on Ed if there’re any changes to office hours. Some of the changes may not be reflected in the calendar below. Looking forward to seeing you in office hours! . Please log in to your Berkeley account to view the calendar. ",
-    "url": "/sp24/calendar/#office-hours-calendar",
-    
-    "relUrl": "/calendar/#office-hours-calendar"
-  },"3": {
     "doc": "Enrollment",
     "title": "Enrollment ✅",
     "content": "Last updated January 9, 2023 . For the pilot offering of Econ 148, we’re specifically targeting students who: . | Are undergraduates who be interested in data science and economics | Have taken Data 8 before | Do not have time conflicts with the class | . As of now, all seats in the class are full. However, we are maintaining a small waitlist. Note that neither the instructor nor the course staffs have control over enrollment. ",
     "url": "/sp24/enrollment/#enrollment-",
     
     "relUrl": "/enrollment/#enrollment-"
-  },"4": {
+  },"3": {
     "doc": "Enrollment",
     "title": "Enrollment",
     "content": " ",
     "url": "/sp24/enrollment/",
     
     "relUrl": "/enrollment/"
-  },"5": {
+  },"4": {
     "doc": "Home",
     "title": "Data Science for Economists",
-    "content": "UC Berkeley, Spring 2024 . PollEV Extenuating Circumstances Anonymous Feedback . Instructor: Eric Van Dusen (ericvd@berkeley.edu) . Lecture: TuTh 2:00 - 3:29 PM, Office Hours: See Calendar and Ed . Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. Welcome to Week 1 of Econ 148! . | The schedule and dates listed below are tentative and may be subject to change. | All announcements will be made via Ed once it’s set up. | The Syllabus contains a detailed explanation of how each course component will work this semester | If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. | . ",
+    "content": "UC Berkeley, Spring 2024 . PollEV Ed Gradescope Extenuating Circumstances Anonymous Feedback . Instructor: Eric Van Dusen (ericvd@berkeley.edu) . Lecture: TuTh 2:00 - 3:29 PM, Office Hours: See Calendar and Ed . Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. Welcome to Week 1 of Econ 148! . | The schedule and dates listed below are tentative and may be subject to change. | All announcements will be made via Ed once it’s set up. | The Syllabus contains a detailed explanation of how each course component will work this semester | If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. | . ",
     "url": "/sp24/#data-science-for-economists",
     
     "relUrl": "/#data-science-for-economists"
-  },"6": {
+  },"5": {
     "doc": "Home",
     "title": "Schedule",
     "content": ". ",
     "url": "/sp24/#schedule",
     
     "relUrl": "/#schedule"
-  },"7": {
+  },"6": {
     "doc": "Home",
     "title": "Week 1",
-    "content": "January 16 Lecture 1 January 18 Lecture 2 . ",
+    "content": "January 16 Lecture 1 Introduction Syllabus January 18 Lecture 2 . ",
     "url": "/sp24/#week-1",
     
     "relUrl": "/#week-1"
-  },"8": {
+  },"7": {
     "doc": "Home",
     "title": "Week 2",
     "content": "January 23 Lecture 3 January 25 Lecture 4 . ",
     "url": "/sp24/#week-2",
     
     "relUrl": "/#week-2"
-  },"9": {
+  },"8": {
     "doc": "Home",
     "title": "Week 3",
     "content": "January 30 Lecture 5 February 1 Lecture 6 . ",
     "url": "/sp24/#week-3",
     
     "relUrl": "/#week-3"
-  },"10": {
+  },"9": {
     "doc": "Home",
     "title": "Week 4",
     "content": "February 6 Lecture 7 February 8 Lecture 8 . ",
     "url": "/sp24/#week-4",
     
     "relUrl": "/#week-4"
-  },"11": {
+  },"10": {
     "doc": "Home",
     "title": "Week 5",
     "content": "February 13 Lecture 9 February 15 Lecture 10 . ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
-  },"12": {
+  },"11": {
     "doc": "Home",
     "title": "Week 6",
     "content": "February 20 Lecture 11 February 22 Lecture 12 . ",
     "url": "/sp24/#week-6",
     
     "relUrl": "/#week-6"
-  },"13": {
+  },"12": {
     "doc": "Home",
     "title": "Week 7",
     "content": "February 27 Lecture 13 February 29 Lecture 14 . ",
     "url": "/sp24/#week-7",
     
     "relUrl": "/#week-7"
-  },"14": {
+  },"13": {
     "doc": "Home",
     "title": "Week 8",
     "content": "March 5 Lecture 15 March 7 Lecture 16 . ",
     "url": "/sp24/#week-8",
     
     "relUrl": "/#week-8"
-  },"15": {
+  },"14": {
     "doc": "Home",
     "title": "Week 9",
     "content": "March 12 Lecture 17 March 14 Lecture 18 . ",
     "url": "/sp24/#week-9",
     
     "relUrl": "/#week-9"
-  },"16": {
+  },"15": {
     "doc": "Home",
     "title": "Week 10",
     "content": "March 19 Lecture 19 March 21 Midterm . ",
     "url": "/sp24/#week-10",
     
     "relUrl": "/#week-10"
-  },"17": {
+  },"16": {
     "doc": "Home",
     "title": "Week 11",
     "content": "March 26 Spring Break March 28 Spring Break . ",
     "url": "/sp24/#week-11",
     
     "relUrl": "/#week-11"
-  },"18": {
+  },"17": {
     "doc": "Home",
     "title": "Week 12",
     "content": "April 2 Lecture 20 April 4 Lecture 21 . ",
     "url": "/sp24/#week-12",
     
     "relUrl": "/#week-12"
-  },"19": {
+  },"18": {
     "doc": "Home",
     "title": "Week 13",
     "content": "April 9 Lecture 22 April 11 Lecture 23 . ",
     "url": "/sp24/#week-13",
     
     "relUrl": "/#week-13"
-  },"20": {
+  },"19": {
     "doc": "Home",
     "title": "Week 14",
     "content": "April 16 Lecture 24 April 18 Lecture 25 . ",
     "url": "/sp24/#week-14",
     
     "relUrl": "/#week-14"
-  },"21": {
+  },"20": {
     "doc": "Home",
     "title": "Week 15",
     "content": "April 23 Lecture 26 April 25 Lecture 27 ",
     "url": "/sp24/#week-15",
     
     "relUrl": "/#week-15"
-  },"22": {
+  },"21": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/sp24/",
     
     "relUrl": "/"
-  },"23": {
-    "doc": "Lecture 1 – Course Overview",
-    "title": "Lecture 1 – Introduction",
-    "content": "Presented by Narges Norouzi and Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec01/#lecture-1--introduction",
-    
-    "relUrl": "/lecture/lec01/#lecture-1--introduction"
-  },"24": {
-    "doc": "Lecture 1 – Course Overview",
-    "title": "Lecture 1 – Course Overview",
-    "content": " ",
+  },"22": {
+    "doc": "Lecture 1",
+    "title": "Lecture 1",
+    "content": ". | slides | . ",
     "url": "/sp24/lecture/lec01/",
     
     "relUrl": "/lecture/lec01/"
-  },"25": {
-    "doc": "Lecture 2 – Pandas, Part I",
-    "title": "Lecture 2 – Pandas, Part I",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | code (Data 8) | code HTML (Data 8) | recording | . ",
-    "url": "/sp24/lecture/lec02/",
-    
-    "relUrl": "/lecture/lec02/"
-  },"26": {
-    "doc": "Lecture 3 – Pandas, Part II",
-    "title": "Lecture 3 – Pandas, Part II",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec03/",
-    
-    "relUrl": "/lecture/lec03/"
-  },"27": {
-    "doc": "Lecture 4 – Pandas, Part III and EDA, Part I",
-    "title": "Lecture 4 – Pandas, Part III and EDA, Part I",
-    "content": "Presented by Narges Norouzi and Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code (Pandas Demo) | code HTML (Pandas Demo) | code (EDA) | code HTML (EDA) | recording | . ",
-    "url": "/sp24/lecture/lec04/",
-    
-    "relUrl": "/lecture/lec04/"
-  },"28": {
-    "doc": "Lecture 5 – EDA II",
-    "title": "Lecture 5 – EDA, Part II",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code (part 1) | code HTML (part 1) | code (part 2) | code HTML (part 2) | recording | . ",
-    "url": "/sp24/lecture/lec05/#lecture-5--eda-part-ii",
-    
-    "relUrl": "/lecture/lec05/#lecture-5--eda-part-ii"
-  },"29": {
-    "doc": "Lecture 5 – EDA II",
-    "title": "Lecture 5 – EDA II",
-    "content": " ",
-    "url": "/sp24/lecture/lec05/",
-    
-    "relUrl": "/lecture/lec05/"
-  },"30": {
-    "doc": "Lecture 6 – Text Wrangling and Regex",
-    "title": "Lecture 6 – Text Wrangling and Regex (finalize EDA from Lec 5)",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code (part 1, Mauna Loa) | code 1 HTML | code (part 2, Text/RegEx) | code 2 HTML | recording | . ",
-    "url": "/sp24/lecture/lec06/#lecture-6--text-wrangling-and-regex-finalize-eda-from-lec-5",
-    
-    "relUrl": "/lecture/lec06/#lecture-6--text-wrangling-and-regex-finalize-eda-from-lec-5"
-  },"31": {
-    "doc": "Lecture 6 – Text Wrangling and Regex",
-    "title": "Lecture 6 – Text Wrangling and Regex",
-    "content": " ",
-    "url": "/sp24/lecture/lec06/",
-    
-    "relUrl": "/lecture/lec06/"
-  },"32": {
-    "doc": "Lecture 7 – Visualization",
-    "title": "Lecture 7 – Visualization I",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec07/#lecture-7--visualization-i",
-    
-    "relUrl": "/lecture/lec07/#lecture-7--visualization-i"
-  },"33": {
-    "doc": "Lecture 7 – Visualization",
-    "title": "Lecture 7 – Visualization",
-    "content": " ",
-    "url": "/sp24/lecture/lec07/",
-    
-    "relUrl": "/lecture/lec07/"
-  },"34": {
-    "doc": "Lecture 8 – Visualization II",
-    "title": "Lecture 8 – Visualization II",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec08/",
-    
-    "relUrl": "/lecture/lec08/"
-  },"35": {
-    "doc": "Lecture 9 – Sampling",
-    "title": "Lecture 9 – Sampling",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec09/",
-    
-    "relUrl": "/lecture/lec09/"
-  },"36": {
-    "doc": "Lecture 10 – Intro to Modeling, SLR",
-    "title": "Lecture 10 – Intro to Modeling, SLR",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | recording | . ",
-    "url": "/sp24/lecture/lec10/",
-    
-    "relUrl": "/lecture/lec10/"
-  },"37": {
-    "doc": "Lecture 11 – Constant model, Loss, and Transformations",
-    "title": "Lecture 11 – Constant Model, Loss, and Transformations",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec11/#lecture-11--constant-model-loss-and-transformations",
-    
-    "relUrl": "/lecture/lec11/#lecture-11--constant-model-loss-and-transformations"
-  },"38": {
-    "doc": "Lecture 11 – Constant model, Loss, and Transformations",
-    "title": "Lecture 11 – Constant model, Loss, and Transformations",
-    "content": " ",
-    "url": "/sp24/lecture/lec11/",
-    
-    "relUrl": "/lecture/lec11/"
-  },"39": {
-    "doc": "Lecture 12 – Ordinary Least Squares",
-    "title": "Lecture 12 – Ordinary Least Squares",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec12/",
-    
-    "relUrl": "/lecture/lec12/"
-  },"40": {
-    "doc": "Lecture 13 – Gradient Descent",
-    "title": "Lecture 13 – Gradient Descent",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec13/",
-    
-    "relUrl": "/lecture/lec13/"
-  },"41": {
-    "doc": "Lecture 14 – Sklearn and Feature Engineering",
-    "title": "Lecture 14 – Sklearn and Feature Engineering",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec14/",
-    
-    "relUrl": "/lecture/lec14/"
-  },"42": {
-    "doc": "Lecture 15 – Fairness in Housing Appraisal",
-    "title": "Lecture 15 – Case Study (HCE): Fairness in Housing Appraisal",
-    "content": "Presented by Ari Edmundson . Content by Ari Edmundson . | slides | recording | . ",
-    "url": "/sp24/lecture/lec15/#lecture-15--case-study-hce-fairness-in-housing-appraisal",
-    
-    "relUrl": "/lecture/lec15/#lecture-15--case-study-hce-fairness-in-housing-appraisal"
-  },"43": {
-    "doc": "Lecture 15 – Fairness in Housing Appraisal",
-    "title": "Lecture 15 – Fairness in Housing Appraisal",
-    "content": " ",
-    "url": "/sp24/lecture/lec15/",
-    
-    "relUrl": "/lecture/lec15/"
-  },"44": {
-    "doc": "Lecture 16 – ross-Validation and Regularization",
-    "title": "Lecture 16 – Cross-Validation and Regularization",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec16/#lecture-16--cross-validation-and-regularization",
-    
-    "relUrl": "/lecture/lec16/#lecture-16--cross-validation-and-regularization"
-  },"45": {
-    "doc": "Lecture 16 – ross-Validation and Regularization",
-    "title": "Lecture 16 – ross-Validation and Regularization",
-    "content": " ",
-    "url": "/sp24/lecture/lec16/",
-    
-    "relUrl": "/lecture/lec16/"
-  },"46": {
-    "doc": "Lecture 17 – Random Variables",
-    "title": "Lecture 17 – Random Variables",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec17/",
-    
-    "relUrl": "/lecture/lec17/"
-  },"47": {
-    "doc": "Lecture 18 – Estimators, Bias and Variance",
-    "title": "Lecture 18 – Estimators, Bias and Variance",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec18/",
-    
-    "relUrl": "/lecture/lec18/"
-  },"48": {
-    "doc": "Lecture 19 – Bias, Variance, and Inference in Modeling",
-    "title": "Lecture 19 – Bias, Variance, and Inference in Modeling",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec19/",
-    
-    "relUrl": "/lecture/lec19/"
-  },"49": {
-    "doc": "Lecture 20 – SQL I",
-    "title": "Lecture 20 – SQL I",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec20/",
-    
-    "relUrl": "/lecture/lec20/"
-  },"50": {
-    "doc": "Lecture 21 – SQL II",
-    "title": "Lecture 21 – SQL II",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec21/",
-    
-    "relUrl": "/lecture/lec21/"
-  },"51": {
-    "doc": "Lecture 22 – Logistic Regression I",
-    "title": "Lecture 22 – Logistic Regression I",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec22/",
-    
-    "relUrl": "/lecture/lec22/"
-  },"52": {
-    "doc": "Lecture 23 – Logistic Regression II",
-    "title": "Lecture 23 – Logistic Regression II",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec23/",
-    
-    "relUrl": "/lecture/lec23/"
-  },"53": {
-    "doc": "Lecture 24 – Large Language Models",
-    "title": "Lecture 24 - Large Language Models",
-    "content": "Presented by Joseph Gonzalez . | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec24/#lecture-24---large-language-models",
-    
-    "relUrl": "/lecture/lec24/#lecture-24---large-language-models"
-  },"54": {
-    "doc": "Lecture 24 – Large Language Models",
-    "title": "Lecture 24 – Large Language Models",
-    "content": " ",
-    "url": "/sp24/lecture/lec24/",
-    
-    "relUrl": "/lecture/lec24/"
-  },"55": {
-    "doc": "Lecture 25 – PCA I",
-    "title": "Lecture 25 – PCA I",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec25/",
-    
-    "relUrl": "/lecture/lec25/"
-  },"56": {
-    "doc": "Lecture 26 – PCA II",
-    "title": "Lecture 26 – PCA II",
-    "content": "Presented by Fernando Pérez . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code (votes) | code HTML (votes) | code (fashion MNIST) | code HTML (fashion MNIST) | recording | . ",
-    "url": "/sp24/lecture/lec26/",
-    
-    "relUrl": "/lecture/lec26/"
-  },"57": {
-    "doc": "Lecture 27 – Clustering",
-    "title": "Lecture 27 – Clustering",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | code HTML | recording | . ",
-    "url": "/sp24/lecture/lec27/",
-    
-    "relUrl": "/lecture/lec27/"
-  },"58": {
-    "doc": "Lecture 28 – Neural Network and Conclusion",
-    "title": "Lecture 28 – Neural Network and Conclusion",
-    "content": "Presented by Narges Norouzi . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code - Neuron | code - NN | code HTML - Neuron | code HTML - NN | recording | . ",
-    "url": "/sp24/lecture/lec28/",
-    
-    "relUrl": "/lecture/lec28/"
-  },"59": {
+  },"23": {
     "doc": "Resources",
     "title": "Resources 💻",
     "content": " ",
     "url": "/sp24/resources/#resources-",
     
     "relUrl": "/resources/#resources-"
-  },"60": {
+  },"24": {
     "doc": "Resources",
     "title": "Textbook",
     "content": "We’ve got a textbook for this course! It’s written by our wonderful uGSI Rohan Jha, and is a massive resource to build a solid foundation of data science for economists. We’ll make sure to link relevant readings as the course progresses, but feel free to read ahead. ",
     "url": "/sp24/resources/#textbook",
     
     "relUrl": "/resources/#textbook"
-  },"61": {
+  },"25": {
     "doc": "Resources",
     "title": "Documentation",
     "content": "In this course, you’ll become familiar with reading lots of documentation. If you’re not sure how a function works, you should type the name of the function in a cell by itself followed by ? and run the cell (so for example, numpy.sum?). This will show you that function’s documentation. Official resources for you to refer to: . | Python documentation | NumPy documentation | Pandas documentation | . ",
     "url": "/sp24/resources/#documentation",
     
     "relUrl": "/resources/#documentation"
-  },"62": {
+  },"26": {
     "doc": "Resources",
     "title": "Past Exams",
     "content": "Here is a collection of our prior exams. | Semester | Midterm | Final | . | Spring 2023 | Exam (Solutions) | Data Task, Conceptual (Data Task Solutions, Conceptual Solutions) | . Midterm . | The discussions! | Review Slides (Spring 2023) | Reference Sheet | Example Questions (Solutions) | . ",
     "url": "/sp24/resources/#past-exams",
     
     "relUrl": "/resources/#past-exams"
-  },"63": {
+  },"27": {
     "doc": "Resources",
     "title": "Supplementary Readings",
     "content": "Each of the listed online textbooks/readings will contain some material that is not in scope for our class. They all cover the fundamentals of Python, but in slightly different ways. As a reminder, you’re not required to look at any of these; only look if you think they’ll help you. | Learning Data Science, the textbook for Data 100 at UC Berkeley. It is an introductory textbook for data science that will be published with O’Reilly Media in 2023. It covers foundational skills in programming and statistics that encompass the data science lifecycle. | Computational and Inferential Thinking, the textbook for Data 8 at UC Berkeley. | Stanford’s Python Reference, a Python guide written for Stanford’s intro CS class, is a great reference if you need a refresher on how something works. | Python Programming for Data Science and Dive Into Data Science are also good references that are written for different classes (at UBC and UCSD, respectively) that cover the material relevant in our class and more. | Composing Programs, the textbook for CS 61A and CS 88 at UC Berkeley, covers Python from a more traditional computer science perspective rather than the data science perspective we will take; as such, only a few sub-chapters are relevant to us but you may find it useful nonetheless. | How to Think Like a Computer Scientist is also a great reference. | . ",
     "url": "/sp24/resources/#supplementary-readings",
     
     "relUrl": "/resources/#supplementary-readings"
-  },"64": {
+  },"28": {
     "doc": "Resources",
     "title": "Other",
     "content": ". | Data 100 Textbook Pandas Reference Table | Data 8 Python reference | . Throughout the semester, if you find any external resource (especially one that isn’t linked above) particularly helpful, please let us know! . ",
     "url": "/sp24/resources/#other",
     
     "relUrl": "/resources/#other"
-  },"65": {
+  },"29": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "/sp24/resources/",
     
     "relUrl": "/resources/"
-  },"66": {
+  },"30": {
     "doc": "Staff",
     "title": "Staff 🧑‍🏫",
     "content": " ",
     "url": "/sp24/staff/#staff-",
     
     "relUrl": "/staff/#staff-"
-  },"67": {
+  },"31": {
     "doc": "Staff",
     "title": "Instructor",
     "content": "Email the instructor with any questions about the class. Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. ",
     "url": "/sp24/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"68": {
+  },"32": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Peter Flo Grinde-Hollevik he/him . hollevik@berkeley.edu . Huhey! I’m Peter, a senior double-majoring in Data Science and Environmental Economics and Policy. I’m passionate about finding new solution for a more sustainable future and international poverty alleviation and would love to pursue a P.hD in the future. I spend my free time hiking, climbing, skiing, and reading books that humble me as often as I can. Rohan Jha he/him . rohan.jha@berkeley.edu . Heyo! I’m Rohan, a senior double majoring in economics and data science. Talk to me about economics research, hiking or cooking. Looking forward to meeting you all! . ",
     "url": "/sp24/staff/",
     
     "relUrl": "/staff/"
-  },"69": {
+  },"33": {
     "doc": "Syllabus",
     "title": "Syllabus 📖",
     "content": " ",
     "url": "/sp24/syllabus/#syllabus-",
     
     "relUrl": "/syllabus/#syllabus-"
-  },"70": {
+  },"34": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Communication 💬 | About 🧐 | Course Structure 🍎 . | Lecture | Discussion Section | Lab and Project | Office Hours and Ed | Exams | . | Technology 🖥 | Policies ✏️ . | Grading . | Participation | Surveys | Labs | Projects | . | Late Policy and Extensions | Regrade Requests | Academic Honesty | Inclusion | Accommodations | . | Acknowledgements 🙏 | . Note: See here for information about enrollment. ",
     "url": "/sp24/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"71": {
+  },"35": {
     "doc": "Syllabus",
     "title": "Communication 💬",
-    "content": "This semester, we’ll be using Ed, a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you’re not sure how to access it. Important Note: Staff will not be answering content questions on Ed. Ed is supposed to be a student-run platform in this class; students are encouraged to answer content-related questions instead. Your activity on Ed will be taken into account for your participation grade. We will not be using bCourses at all in this class; this website and Ed serve as replacements. ",
+    "content": "This semester, we’ll be using Ed to communicate. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you’re not sure how to access it. Important Note: Staff will not be answering content questions on Ed. Ed is supposed to be a student-run platform in this class; students are encouraged to answer content-related questions instead. Your activity on Ed will be taken into account for your participation grade. We will not be using bCourses at all in this class; this website and Ed serve as replacements. ",
     "url": "/sp24/syllabus/#communication-",
     
     "relUrl": "/syllabus/#communication-"
-  },"72": {
+  },"36": {
     "doc": "Syllabus",
     "title": "About 🧐",
-    "content": "From the course catalog: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work. Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization. The course will cover many aspects of preparing data for econometric analysis. Practices around literate code, open science tools, reproducibility, and data management will also be covered. Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc. Note that Data 8 (or Stat 20 and familiarity with Python) is a prerequisite to this class, but Data 100 or Econ 140/141 is not. This class serves a different purpose than several other classes that may sound similar. Specifically: . | Data 8: Starting from a Data 8 background, this course dives deeper into Python and its applications in economics. After taking this class, you will be able to obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research. | Data 100: Econ 148 is potentially an alternative to Data 100, for students who do not have the prereqs of CS61A and Math 54, and with more focus on data science techniques relevant to economics. Students who have taken Data 100 are suggested NOT to take this class. And, if you can take Data 100 you should take Data 100. | Data 88E: Econ 148 is a “followup” to Data 88E. You will learn more data science skills with real-life datasets. We will also use “industry-standard” packages (e.g. Pandas), the ones that are actually being used in research and workplaces. | CS 61A and CS 88: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. | Econ 140/141: Econ 140/141 focuses more on how to arrive at the right conclusion using statistical techniques (like various forms of regressions) given a cleaned dataset. Econ 148 focuses more on how to get this dataset, make it a cleaned dataset, and produce exploratory data analysis before diving into main regression. (This is not a trivial portion! Economists spend around 1/3 of their time on getting and cleaning data when doing empirical research!) | . If you have already taken the prerequisite Data 8, and are interested in learning more about how to apply data science skills in economics – welcome! You’re in the right place 😎. The rough topic breakdown is as follows: . | Pandas | Sourcing Data - API and elements of SQL | Exploratory Data Analysis | Cleaning and Wrangling Data | Visualization - Matplotlib / Seaborn / Plotly / Geopandas | Preparing Dataset for Econometric Analysis | Survival Analysis | Time Series | Introduction to ML | . Lecture and Discussion slides and code will be posted after each section, and they will cover everything you are required to know for the course. Also, note that the course will emphasize the use of real-world data. Some possible datasets include: . | IPUMS microdata on outcomes of college education | FRED data on macro indicators | Zillow data on cost of housing | Who owns real estate in Dubai | Telco Churn / Credit Risk | . You will leave the course being able to independently apply the skills you’ve learned to datasets of your own choosing. ",
+    "content": "From the course catalog: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work. Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization. The course will cover many aspects of preparing data for econometric analysis. Practices around literate code, open science tools, reproducibility, and data management will also be covered. Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc. Note that Data 8 (or Stat 20 and familiarity with Python) is a prerequisite to this class, but Data 100 or Econ 140/141 is not. This class serves a different purpose than several other classes that may sound similar. Specifically: . | Data 8: Starting from a Data 8 background, this course dives deeper into Python and its applications in economics. After taking this class, you will be able to obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research. | Data 100: Econ 148 is potentially an alternative to Data 100, for students who do not have the prereqs of CS61A and Math 54, and with more focus on data science techniques relevant to economics. Students who have taken Data 100 are suggested NOT to take this class. And, if you can take Data 100 you should take Data 100. | Data 88E: Econ 148 is a “followup” to Data 88E. You will learn more data science skills with real-life datasets. We will also use “industry-standard” packages (e.g. Pandas), the ones that are actually being used in research and workplaces. | CS 61A and CS 88: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. | Econ 140/141: Econ 140/141 focuses more on how to arrive at the right conclusion using statistical techniques (like various forms of regressions) given a cleaned dataset. Econ 148 focuses more on how to get this dataset, make it a cleaned dataset, and produce exploratory data analysis before diving into main regression. (This is not a trivial portion! Economists spend around 1/3 of their time on getting and cleaning data when doing empirical research!) | . If you have already taken the prerequisite Data 8, and are interested in learning more about how to apply data science skills in economics – welcome! You’re in the right place 😎. The rough topic breakdown is as follows: . | Pandas | Sourcing Data - API and elements of SQL | Exploratory Data Analysis | Cleaning and Wrangling Data | Visualization - Matplotlib / Seaborn / Plotly / Geopandas | Preparing Datasets for Econometric Analysis | Survival Analysis | Time Series | Introduction to ML | . Lecture and Discussion slides and code will be posted after each section, and they will cover everything you are required to know for the course. Also, note that the course will emphasize the use of real-world data. Some possible datasets include: . | IPUMS microdata on outcomes of college education | FRED data on macro indicators | Zillow data on cost of housing | Who owns real estate in Dubai | Telco Churn / Credit Risk | . You will leave the course being able to independently apply the skills you’ve learned to datasets of your own choosing. ",
     "url": "/sp24/syllabus/#about-",
     
     "relUrl": "/syllabus/#about-"
-  },"73": {
+  },"37": {
     "doc": "Syllabus",
     "title": "Course Structure 🍎",
     "content": "Lecture . There will be two lectures a week. In lectures, we’ll introduce you to new ideas and concepts in data science oriented for economists. Lecture attendance and participation is a part of your participation grade; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. Note: Lecture recordings will only be accessible to students in the course. During each lecture, there will be a point (or more) at which we stop and ask you to answer a short question via Poll Everywhere. We call these questions Quick Checks. They serve three purposes: . | For us to get a gauge of how well the class understands the material we’re currently covering | For you to get a gauge of how well you understand the material we’re currently covering | For us to record lecture participation | . Quick Checks are graded on completion, not correctness. It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. Discussion Section . There is one discussion section a week that is held by Peter and Rohan, our UGSIs. Discussion attendance and activity is a part of your participation grade, and the midterm will be heavily based on the section material. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week’s material, resulting in a summary slide well worth reviewing ahead of your midterm and projects. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you’re expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. Expectations towards the students: . | Participation in class activity. This is incredibly important; the entire class will benefit from a highly collaborative environment while learning data science. | Academic Integrity and Honesty per the Berkeley Honor Code. | Accommodations are done through the office of DSP in due time prior to the start of the event where accommodations are needed. | Should technical support be needed, please contact Student Technological Services ahead of time. You’ll need either a laptop/mac or a large tablet in this class. | . Lab and Project . You learn data science by doing data science, not by listening or reading about it. As such, labs and projects will be your primary source of learning in this class. Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you’re on the right track or not. However, for the projects, the local autograders are not comprehensive – we will have additional hidden tests. Most labs and projects will also include a few “written” problems, where you have to type your answer in text. These problems will be manually graded. There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released after lectures on Tuesdays. Labs will be due the following Wednesday at midnight (11:59PM), and projects will be due several weeks later at Wednesday at midnight. See the Policies section for our extensions and late submissions policy, as well as our drop policy. All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. Office Hours and Ed . In addition to lectures and labs, we will host several office hours a week. In office hours, you’ll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. In the past, OHs have felt very much like co-working spaces that you’ll encounter in your future professional lives! . Furthermore, you’re encouraged to ask and answer questions about assignments and concepts on Ed. As a reminder, Ed will be a student-run forum this semester and you are expected to answer questions on Ed. Exams . We will have an in-class midterm that covers the first half of the course materials. More relevant logistics for exams will be announced on Ed. ",
     "url": "/sp24/syllabus/#course-structure-",
     
     "relUrl": "/syllabus/#course-structure-"
-  },"74": {
+  },"38": {
     "doc": "Syllabus",
     "title": "Technology 🖥",
     "content": "We will be using several websites this semester. Here’s what they’re all used for: . | Course Website: where all content will be posted. | Textbook: textbook that accompanies the course. | Ed: discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. | DataHub: where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.) | Gradescope: where all labs and projects are submitted and all grades live. (Not bCourses! 🙅) | Poll Everywhere : this is where we will do class checks and attendance checks! | . ",
     "url": "/sp24/syllabus/#technology-",
     
     "relUrl": "/syllabus/#technology-"
-  },"75": {
+  },"39": {
     "doc": "Syllabus",
     "title": "Policies ✏️",
     "content": "Grading . Here’s how we will compute your grade. | Component | Weight | Notes | . | Participation | 15% | Including lectures, discussion sections, and Ed | . | Labs | 25% | 1 lab drop | . | Projects 1 + 2 | 20% | no drops | . | Project 3 | 15% |   | . | Midterm | 25% |   | . Participation . Attendance will be taken for all lectures and discussions, and Ed activity will be tracked. In addition, we will take into account lecture and discussion activity beyond just attendance; people who actively participate will be given a higher score. Surveys . Since this is a new-ish (2nd offering) class, we’re very interested in receiving your feedback as to how it’s going and how we can improve. As such, we will have feedback survey for you to fill out at the end of very lab. These are a part of your lab grade, and you get a score for completing them (although they’re completely anonymous). There is also a general feedback form where you can share your feedback anonymously at any point throughout the semester. Labs . There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). One free response question will be randomly selected for manual grading in each lab. This free response question will count for 10 to 20% of your grade for that respective lab. You will have 1 lab drop to be used at any time throughout the semester. Projects . There will be 3 projects in total. Projects 1 and 2 have a weight of 10% each, while project 3 has a weight of 15%. Projects are graded by correctness (both the autograded and the free-response questions). There will be hidden tests for projects. Late Policy and Extensions . Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small grace period of 3 minutes (until 12:02 am) to account for any technical difficulties. It is your responsibility to be proactive about your submissions; staff are not expected to be active on midnight to help you with submission issues. Students are allowed to submit labs and projects late for a 50% penalty within 48 hours after they are due, after which they will receive no credit. We will factor in late submissions when we’re calculating grades at the end of the semester. Extensions: We know this is a stressful time, and we don’t want to penalize you because of circumstances that are out of your control. To request an extension, please submit this google form as soon as possible (definitely before the deadline). As long as your request is within reason, there’s a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required. Regrade Requests . When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed or are made outside of the designated regrade window will not be considered. Academic Honesty . You must write your answers in your own words, and you must not plagiarize your completed work. Every semester we have to deal with people who share answers, attendance passwords, and code. We can see it and we can test for it with a detection script. Make a serious attempt at every assignment yourself. If you get stuck, read the supporting code, refer to examples in the lectures and discussion sections. After that, go ahead and discuss any remaining doubts with others, especially the course staff during office hours. That way you will get the most out of the course content. You are also not permitted to turn in answers or code that you have obtained from others. Not only is such copying dishonest, it misses the point of the assignments, which is not for you to find the answers somewhere and send them along to the staff. It is for you to figure out how to solve the problems, with the support available in the course. The landscape of using AI for help with coding is rapidly changing. To succeed in the class, you will need to learn fundamental concepts without assistance from AI. For one example, you will not be allowed to use AI for the in-class, handwritten midterm. Use common sense and cite any AI you do use. Flagrant and obvious use of AI will not demonstrate your understanding of the concept and will lead to grading penalties. We have all used AI for help with coding, and we have seen that using AI without a solid understanding of the fundamentals can lead to incorrect, buggy and inefficient code. Please read Berkeley’s Code of Conduct carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the Center for Student Conduct. They might also include a F in the course or even dismissal from the university. It’s just not worth it. Data science is a collaborative activity. As such, we encourage you to discuss assignments with others. Go on Ed and discuss with other students. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. You are not alone in this course! We’re here to help you succeed. If you invest the time to learn the material and complete the assignments, you won’t need to copy any answers. If you use code you found online, please cite it in a comment. Inclusion . The instructor and course staff are committed to creating an inclusive learning environment, one that welcomes all students and supports a diversity of beliefs, thoughts, perspectives, values, and experiences, and one that respects all identities and backgrounds (including race/ethnicity, nationality, gender, class, religion, ability, sexual orientation, etc.) . To help accomplish this: . | If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with the instructor or course staff. We are here to be a resource for you. | We are here to learn, and sometimes along the way we make mistakes. If something is said in class that makes you feel uncomfortable, please come and talk to the instructor or course staff about it. | As a participant in this class, you should strive to respect the diversity and experiences of your classmates. | . Accommodations . If you have any special needs or require ability-related accommodations, please notify the instructor as soon as possible. If an unexpected personal or medical challenge is interfering with your ability to complete assignments and/or attend class, it is important that you contact the instructor or course staff as early as possible. Further resources are available through the Disabled Students Program. ",
     "url": "/sp24/syllabus/#policies-%EF%B8%8F",
     
     "relUrl": "/syllabus/#policies-️"
-  },"76": {
+  },"40": {
     "doc": "Syllabus",
     "title": "Acknowledgements 🙏",
     "content": "This class is loosely based on Data C100 and Data 88E. When creating Econ 148, we’ve referred to the materials of several other courses: . | Data 8 | Data 100 | ERE 131 | DS Modules | . The website uses Just the Class. ",
     "url": "/sp24/syllabus/#acknowledgements-",
     
     "relUrl": "/syllabus/#acknowledgements-"
-  },"77": {
+  },"41": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
