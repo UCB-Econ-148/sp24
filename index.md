@@ -20,11 +20,7 @@ UC Berkeley, Spring 2024
 [Anonymous Feedback](https://forms.gle/sTw8gxu9ryGbcn4R7){:target="_blank" .btn .btn-feedback .mr-1 } 
 
 {: .mb-2 }
-**Instructor:** Eric Van Dusen (<a>ericvd@berkeley.edu</a>)
-{: .mb-0 .fs-5 .text-grey-dk-000 }
-
-{: .mb-3 }
-**Lecture:** TuTh 2:00 - 3:29 PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/53352/discussion/4119934)
+**Instructor:** 
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 <div>
@@ -35,6 +31,14 @@ UC Berkeley, Spring 2024
     {% endfor %}
   </div>
 </div>
+
+{: .mb-3 }
+**Lecture:** Tuesdays and Thursdays, 2:00 - 3:29 PM, Lewis 100         
+{: .mb-0 .fs-5 .text-grey-dk-000 }
+
+{: .mb-4 }        
+**Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/53352/discussion/4119934)
+{: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .highlight }
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Econ 148!
