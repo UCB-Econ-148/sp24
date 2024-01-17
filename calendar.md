@@ -15,4 +15,4 @@ Please log in to your Berkeley account to view the calendar.
 
 <br>
 
-To access office hours, go to the room in the location of the office hour slot you're planning on attending. **For some individual office hours, you will need to sign up for a 15-min time slots before attending them. For other drop-in office hours, you can just come to the location during the time of the office hours.** We will make announcements on Ed if there are any changes to office hours. Some of the changes may not be reflected in the calendar below. Looking forward to seeing you there!
+To access in-person office hours, just come to the location of the office hour slot at the given time. **For Peter's online office hours, please [book a 15-min time slot](https://calendar.app.google/XMhQ2zH1tHNxbnUS8) before the start of the hour.** We will make announcements on Ed if there are any changes to office hours. Some of the changes may not be reflected in the calendar below; please check Ed for the latest updates. Looking forward to seeing you in Office Hours!
