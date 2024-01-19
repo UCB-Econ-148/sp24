@@ -11,3 +11,4 @@ January 16
 
 January 18
 : **Lecture 2**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1zYv6uNkgokxrScGRVbvXZk0fN_2NFWP8EmSYASQ-tfs/edit#slide=id.g1d48db45a1a_0_15)   [LectureNB](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec1-2-spotify.ipynb)
+: **Lab 1**{: .label .label-lab }[Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flab%2Flab01%2Flab01.ipynb) (due 1/26)
