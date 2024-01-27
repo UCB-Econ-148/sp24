@@ -81,9 +81,7 @@ improve support for github pages.
 
 Install `rvm`: https://rvm.io/
 
-Install Ruby 2.2.0:
-
-    rvm install 2.2.0
+Install Ruby
 
 Clone this repo:
 
