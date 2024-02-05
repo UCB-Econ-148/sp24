@@ -10,7 +10,7 @@ January 23
 
 
 January 25
-: **Lecture 4**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1wSWkvcQYkir7-Eyi7WSt_Oq_OEaCEqBEmT8cwNTWn1I/edit?usp=sharing), [Lecture Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec2.2%2FLec.2.2_NA_UCB_degrees.ipynb), [ Jim Church Slides](https://docs.google.com/presentation/d/1oHP2sLDP1g52ZhET5fuPoEv62HbwJZKrAAaS31lplFE/edit?usp=sharing), [WRDS Notebook]()
+: **Lecture 4**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1wSWkvcQYkir7-Eyi7WSt_Oq_OEaCEqBEmT8cwNTWn1I/edit?usp=sharing), [Lecture Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec2.2%2FLec.2.2_NA_UCB_degrees.ipynb), [ Jim Church Slides](https://docs.google.com/presentation/d/1oHP2sLDP1g52ZhET5fuPoEv62HbwJZKrAAaS31lplFE/edit?usp=sharing), [WRDS Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec2.2%2FWRDS2024.ipynb)
 
 
 
