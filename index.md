@@ -44,7 +44,7 @@ UC Berkeley, Spring 2024
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Econ 148!
 
 + The schedule and dates listed below are tentative and may be subject to change. 
-+ All announcements will be made via Ed once it's set up.
++ All announcements will be made via Ed.
 + The [Syllabus](./syllabus) contains a detailed explanation of how each course component will work this semester
 + If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. 
 
