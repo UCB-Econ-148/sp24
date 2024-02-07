@@ -46,6 +46,7 @@ Each of the listed online textbooks/readings will contain some material that is 
 
 ## Other
 - [Data 100 Textbook Pandas Reference Table](https://learningds.org/ch/a04/ref_pandas.html)
+- [Data 100 Regex Reference Sheet](https://drive.google.com/file/d/1-OkbAv-iLCljI_6b-NcmmmosePbP3jEZ/view)
 - [Data 8 Python reference](http://www.data8.org/fa22/reference/)
 
 Throughout the semester, if you find any external resource (especially one that isn't linked above) particularly helpful, please let us know!
