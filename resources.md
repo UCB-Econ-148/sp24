@@ -45,7 +45,7 @@ Each of the listed online textbooks/readings will contain some material that is 
 - [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) is also a great reference.
 
 ## Other
-- [Data 100 Textbook Pandas Reference Table](https://learningds.org/ch/a04/ref_pandas.html)
+- [Pandas Tutor](https://pandastutor.com/)
 - [Data 100 Regex Reference Sheet](https://drive.google.com/file/d/1-OkbAv-iLCljI_6b-NcmmmosePbP3jEZ/view)
 - [Data 8 Python reference](http://www.data8.org/fa22/reference/)
 
