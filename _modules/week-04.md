@@ -9,6 +9,7 @@ February 6
 
 February 8
 : **Lecture 8**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1x2U1gRkQitW2FH30iAyrS0RY55CG2NZwq7wCoPsKFbg/edit?usp=sharing){:target="_blank"},[Lecture NB](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec4.2%2FHawthorne_Demo.ipynb)
+: **Lab 4**{: .label .label-lab }[SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flab%2Flab04%2Flab04.ipynb) (due 2/16)
 
 
 
