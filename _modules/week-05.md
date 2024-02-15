@@ -8,6 +8,6 @@ February 13
 
 
 February 15
-: **Lecture 10**{: .label .label-lecture }
+: **Lecture 10**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1FeVxcTeTLS_ednqneNGp7Coa7DEMoEoirGcmRtfPyQU/edit?usp=sharing){:target="_blank"},[Lecture NB](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec5.2%2FSQL_Soda3.ipynb),[StarWars2](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec5.2%2FStarWars_Demo2.ipynb)
 
 
