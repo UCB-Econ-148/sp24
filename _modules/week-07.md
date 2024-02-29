@@ -10,5 +10,5 @@ February 27
 
 
 February 29
-: **Lecture 14**{: .label .label-lecture }
+: **Lecture 14**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1WMn6R3_5ZneomBv9c7DWKxRdv9xqOqdlyft77okNu8s/edit?usp=sharing){:target="_blank"}
 
