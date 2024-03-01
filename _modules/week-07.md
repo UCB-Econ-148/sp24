@@ -11,4 +11,5 @@ February 27
 
 February 29
 : **Lecture 14**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1WMn6R3_5ZneomBv9c7DWKxRdv9xqOqdlyft77okNu8s/edit?usp=sharing){:target="_blank"}
+: **Lab 7**{: .label .label-lab }[The Impact of Minimum Wage on Employment](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flab%2Flab07%2Flab07.ipynb) (due 3/08)
 
