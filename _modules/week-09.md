@@ -12,5 +12,5 @@ March 12
 
 
 March 14
-: **Lecture 18**{: .label .label-lecture }
+: **Lecture 18**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1d1YfSt9jtBAY_U9F2Ck20CRU141GXwEeWHaxiRBPt1A/edit?usp=sharing){:target="_blank"},  [Card Slides](https://drive.google.com/file/d/1xmneUo_ifOkwN_O1lbyNP0x6IlNEqDXK/view?usp=sharing)
 
