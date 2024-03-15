@@ -118,7 +118,7 @@ You learn data science by **doing** data science, not by listening or reading ab
 
 Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you're on the right track or not. However, for the projects, the local autograders are not comprehensive – we will have additional hidden tests. Most labs and projects will also include a few "written" problems, where you have to type your answer in text. These problems will be manually graded.
 
-There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released after lectures on Thursday. Labs will be due the following Friday at midnight (11:59PM), and projects will be due several weeks later at Friday at midnight. See the Policies section for our extensions and late submissions policy, as well as our drop policy.
+There will be 9 labs and 3 projects in total. In general, lab and project assignments will be released after lectures on Thursday. Labs will be due the following Friday at midnight (11:59PM), and projects will be due several weeks later at Friday at midnight. See the Policies section for our extensions and late submissions policy, as well as our drop policy.
 
 All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. 
 
@@ -179,7 +179,7 @@ As such, we will have feedback survey for you to fill out at the end of very lab
 
 #### Labs
 
-There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). One free response question will be randomly selected for manual grading in each lab. This free response question will count for 10 to 20% of your grade for that respective lab.
+There will be 9 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). One free response question will be randomly selected for manual grading in each lab. This free response question will count for 10 to 20% of your grade for that respective lab.
 
 You will have 1 lab drop to be used at any time throughout the semester.
 
