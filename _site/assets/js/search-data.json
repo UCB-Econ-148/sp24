@@ -29,7 +29,7 @@
   },"4": {
     "doc": "Home",
     "title": "Data Science for Economists",
-    "content": "UC Berkeley, Spring 2024 . PollEV Ed Gradescope Lecture Recordings Extenuating Circumstances Anonymous Feedback . Instructor: . Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. Lecture: Tuesday’s and Thursday’s, 2:00 - 3:30 PM, Lewis 100 . Office Hours: see Calendar and Ed . Welcome to Week 4 of Econ 148! . | The schedule and dates listed below are tentative and may be subject to change. | All announcements will be made via Ed. | The Syllabus contains a detailed explanation of how each course component will work this semester | If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. | . ",
+    "content": "UC Berkeley, Spring 2024 . PollEV Ed Gradescope Lecture Recordings Extenuating Circumstances Anonymous Feedback . Instructor: . Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. Lecture: Tuesday’s and Thursday’s, 2:00 - 3:30 PM, Lewis 100 . Office Hours: see Calendar and Ed . Welcome to Week 9 of Econ 148! . | The schedule and dates listed below are tentative and may be subject to change. | All announcements will be made via Ed. | The Syllabus contains a detailed explanation of how each course component will work this semester | If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. | . ",
     "url": "/sp24/#data-science-for-economists",
     
     "relUrl": "/#data-science-for-economists"
@@ -64,49 +64,49 @@
   },"9": {
     "doc": "Home",
     "title": "Week 4",
-    "content": "February 6 Lecture 7Slides Discussion 3 Slides February 8 Lecture 8 . ",
+    "content": "February 6 Lecture 7Slides Discussion 3 Slides February 8 Lecture 8Slides,Lecture NB Lab 4SQL (due 2/16) . ",
     "url": "/sp24/#week-4",
     
     "relUrl": "/#week-4"
   },"10": {
     "doc": "Home",
     "title": "Week 5",
-    "content": "February 13 Lecture 9 February 15 Lecture 10 . ",
+    "content": "February 13 Lecture 9Slides,Lecture NB Discussion 4 Slides February 15 Lecture 10Slides,Lecture NB,StarWars2 Lab 5Visualization I (due 2/23) . ",
     "url": "/sp24/#week-5",
     
     "relUrl": "/#week-5"
   },"11": {
     "doc": "Home",
     "title": "Week 6",
-    "content": "February 20 Lecture 11 February 22 Lecture 12 . ",
+    "content": "February 20 Lecture 11Slides,Lecture NB,LogLog NB,Finance NB Discussion 5 Slides February 22 Lecture 12Slides,County RGDP NB, WaterGuard Graph NB Lab 6Geospatial Visualizations (due 3/01) Project 2Mariel Boatlift (due 3/15) . ",
     "url": "/sp24/#week-6",
     
     "relUrl": "/#week-6"
   },"12": {
     "doc": "Home",
     "title": "Week 7",
-    "content": "February 27 Lecture 13 February 29 Lecture 14 . ",
+    "content": "February 27 Lecture 13 Slides, Plotly-Proj1 Discussion 6 Slides February 29 Lecture 14Slides Lab 7The Impact of Minimum Wage on Employment (due 3/08) . ",
     "url": "/sp24/#week-7",
     
     "relUrl": "/#week-7"
   },"13": {
     "doc": "Home",
     "title": "Week 8",
-    "content": "March 5 Lecture 15 March 7 Lecture 16 . ",
+    "content": "March 5 Lecture 15 Slides, LectureNB Discussion 7 Slides . March 7 Lecture 16 Slides, LectureNB-RRreproduction Lab 8Survival Analysis (due 3/15) . ",
     "url": "/sp24/#week-8",
     
     "relUrl": "/#week-8"
   },"14": {
     "doc": "Home",
     "title": "Week 9",
-    "content": "March 12 Lecture 17 March 14 Lecture 18 . ",
+    "content": "March 12 Lecture 17Slides, LifelinesRegimes, LifelinesTermination Discussion 8 Slides . March 14 Lecture 18Slides, Card Slides . ",
     "url": "/sp24/#week-9",
     
     "relUrl": "/#week-9"
   },"15": {
     "doc": "Home",
     "title": "Week 10",
-    "content": "March 19 Lecture 19 March 21 Midterm . ",
+    "content": "March 19 Lecture 19Slides, TimeSeriesNB March 21 Midterm . ",
     "url": "/sp24/#week-10",
     
     "relUrl": "/#week-10"
@@ -160,132 +160,202 @@
     
     "relUrl": "/lecture/lec01/"
   },"23": {
+    "doc": "Project 3",
+    "title": "Project 3",
+    "content": " ",
+    "url": "/sp24/proj3/",
+    
+    "relUrl": "/proj3/"
+  },"24": {
+    "doc": "Project 3",
+    "title": "Table of contents",
+    "content": ". | Timeline | Groups | Introduction | Project Objectives | Deliverables and Rubrics . | Deliverables . | Replication Report (50%) | Code &amp; Analysis (50%) | . | Grading Rubrics | . | Datasets and Papers | Submission Checklists . | Checkpoint (due Friday, April 12, 2024) | Project (due Friday, April 26, 2024) | . | Important Notes | . ",
+    "url": "/sp24/proj3/#table-of-contents",
+    
+    "relUrl": "/proj3/#table-of-contents"
+  },"25": {
+    "doc": "Project 3",
+    "title": "Timeline",
+    "content": "The project is due on Friday, April 26, 2024. This is the Friday before RRR week. Once you have finished this project, you will have finished all assignments in this course - congratulations! . In addition, there will be one checkpoint due on Friday, April 12, 2024. Note: During the time of the project, all discussion sections will be turned into optional OH for your group to ask any clarifiying questions. We strongly encourage you to attend these! . ",
+    "url": "/sp24/proj3/#timeline",
+    
+    "relUrl": "/proj3/#timeline"
+  },"26": {
+    "doc": "Project 3",
+    "title": "Groups",
+    "content": "This is a group project. Good collaboration and leadership will be needed for a successful replication. We ask that you organize yourself in groups of 4. Groups may have members from different discussion sections. We encourage you to use Ed as a place to look for team members, as well as the following form. If you are looking for a group to join or if you’re a group looking for additional members, please fill out this form before Friday April 5th, 11:59pm. We will fill groups short of members by Monday April 8th. ",
+    "url": "/sp24/proj3/#groups",
+    
+    "relUrl": "/proj3/#groups"
+  },"27": {
+    "doc": "Project 3",
+    "title": "Introduction",
+    "content": "In this project, you will have the opportunity to apply the data science and economic tools and techniques that you have learned throughout the semester to explore and replicate a paper from Berkeley Professor Ted Miguel’s extensive work. Ted Miguel’s main research focus is African economic development, including work on the economic causes and consequences of violence; the impact of ethnic divisions on local collective action; interactions between health, education, environment, and productivity for the poor; and methods for transparent social science research. He has conducted field work in Kenya, Sierra Leone, Tanzania, and India (sourced from his own bio). Many of the datasets used in his research are posted online, either on the relevant articles page or on his Dataverse. ",
+    "url": "/sp24/proj3/#introduction",
+    
+    "relUrl": "/proj3/#introduction"
+  },"28": {
+    "doc": "Project 3",
+    "title": "Project Objectives",
+    "content": "As a group, you’ll choose one paper from Ted Miguel’s Dataverse and attempt to replicate its findings. Replication in the context of this project refers to computational reproducibility, which is: . The ability to duplicate the results of a prior study using the same data and procedures as were used by the original investigator. Computational reproducibility is done using the same computer code (possibly rebuilt from scratch), but can be achieved using a different software package. (Dreber and Johannesson (2023)) . In other words, you should pick a paper that triggers your group’s interests, access its data and source code, and re-code the analysis in your own coding environment, then present your main findings as regression outputs and figures as in the original paper. Before doing so, you should, as a group, read and understand the paper’s main objectives, policy implications, and especially its methodology section to have the necessary context to pursue a replication. For more information on different forms of reproducibility, please see The Institute for Replication (I4R)’s main page. ",
+    "url": "/sp24/proj3/#project-objectives",
+    
+    "relUrl": "/proj3/#project-objectives"
+  },"29": {
+    "doc": "Project 3",
+    "title": "Deliverables and Rubrics",
+    "content": "Your final delivarable should be a Replication Report following the I4R framework. It should be submitted as a PDF, typed up in LaTeX (Chat-GPT can be really helpful for this). Please use the LaTeX template attached. Read the replicaton report template carefully as it contains all the information you need to pursue for a successful replication. Knowing LaTeX is a super-power and makes your work look really pretty! . In addition, you should submit a well-organized, compressed (.zip) folder that contains a Jupyter notebook and all the data used. We should be able to replicate your work by running the notebook locally on our computers. Here is the list of deliverables and the grading rubrics. See the replication report for more details. Deliverables . Replication Report (50%) . | Deliverable | Points | . | Abstract | 5% | . | Introduction | 5% | . | Reproducibility | 5% | . | Replication | 25% | . | Conclusion | 5% | . | Clarity, Style and Presentation | 5% | . Code &amp; Analysis (50%) . | Deliverable | Points | . | Checkpoint (see details below) | 15% | . | Data Cleaning &amp; Pre-Processing | 5% | . | Modeling (regressions) | 10% | . | Visualizations (figures, tables) | 15% | . | Clarity, Style and Presentation | 5% | . Grading Rubrics . For each deliverable, we will award points according to the following percentage scale: . | Grade | Description | . | Excellent (above 90%) | Work that is free of all but the most minor errors and demonstrates creativity and/or a very deep understanding of what you are doing. | . | Good (80-90%) | Work that is free of fundamental errors and demonstrates a basic understanding of what you’re doing. | . | Fair (60-80%) | Work with fundamental errors in analysis and/or conveys a lack of understanding of the basics of the work you are attempting to do. | . | Lacking (below 60%) | Work that is severely lacking or incomplete. | . ",
+    "url": "/sp24/proj3/#deliverables-and-rubrics",
+    
+    "relUrl": "/proj3/#deliverables-and-rubrics"
+  },"30": {
+    "doc": "Project 3",
+    "title": "Datasets and Papers",
+    "content": "There are a total of 58 papers published on Ted Miguel’s Dataverse. Some contain replication data for RCTs with 1000s of participants over several years with multiple Stata (.do/.dta) files. Others are far less complex in their data structures, yet seek to answer questions no less interesting. Take this into consideration when your group chooses what paper to replicate. Below are some suggestions that course staff think would be a great options given our limited time: . | Paper | Link | . | Fisman, Raymond, and Edward Miguel. 2007. “Corruption, Norms and Legal Enforcement: Evidence from Diplomatic Parking Tickets.” Journal of Political Economy 115 (6): 1020-1048. | data, PDF | . | Miguel, Edward. 2005. “Poverty and Witch Killing.” Review of Economic Studies 72 (4): 1153-1172. | data, PDF | . | Miguel, Edward, Sebastian M. Saiegh, and Shanker Satyanath. 2011. “Civil War Exposure and Violence.” Economics &amp; Politics 23 (1): 59-73 | data, PDF | . | Hsieh, Chang-Tai, Edward Miguel, Daniel Ortega, and Francisco Rodriguez. 2011. “The Price of Political Opposition: Evidence from Venezuela’s Maisanta.” American Economic Journal: Applied Economics 3 (2): 196-214. | data, PDF | . | Kramon, Eric, Joan Hamory, Sarah Baird, and Edward Miguel. 2022. “Deepening or Diminishing Ethnic Divides? The Impact of Urban Migration in Kenya.” American Journal of Political Science 66 (2): 365-84 | data, PDF | . | Baysan, Ceren; Burke, Marshall; González, Felipe; Hsiang, Solomon; Miguel, Edward, 2020, “Non-economic factors in violence: Evidence from organized crime, suicides and climate in Mexico” | data, PDF | . | Bauer, Michal, Julie Chytilova, and Edward Miguel. (2020). “Using survey questions to measure preferences: Lessons from an experimental validation in Kenya”, forthcoming European Economic Review. | data, PDF | . | Burke, Marshall, Lauren Falcao Bergquist, and Edward Miguel, “Sell Low and Buy High: Arbitrage and Local Price Effects in Kenyan Markets,” The Quarterly Journal of Economics, v.134 2, May 2019, 785-842. | data, PDF | . | Miguel, Edward; Burgess, Robin; Jedwab, Remi; Morjaria, Ameet; Padró i Miquel, Gerard, 2016, “The Value of Democracy: Evidence from Road Building in Kenya” | data, PDF | . | Miguel, Edward; Friedman, Willa; Kremer, Michael; Thornton, Rebecca, 2016, “Education as Liberation” | data, PDF | . ",
+    "url": "/sp24/proj3/#datasets-and-papers",
+    
+    "relUrl": "/proj3/#datasets-and-papers"
+  },"31": {
+    "doc": "Project 3",
+    "title": "Submission Checklists",
+    "content": "Checkpoint (due Friday, April 12, 2024) . This will be a separate gradescope assignment that will be due earlier. You must include: . | Group composition (names and assigned responsibilities). | Chosen paper. | Screenshots of an project organization (including data, notebook, code). | Screenshots of LaTeX project in Overleaf following the I4R template. | A description of what you have attempted to do so far. | A summary of what’s going well and what you are struggling with. | A note on how course staff may help you succeed. | . Project (due Friday, April 26, 2024) . | A PDF of the Replication Report (submitted to the project 3 written assignment on Gradescope) | A PDF file of the Jupyter Notebook containing all the analysis (submitted to the project 3 written assignment on Gradescope) | A well-organized compressed (.zip) file containing: (submitted to the project 3 coding assignment on Gradescope) . | A Jupyter Notebook that can easily be run to replicate all your results | All datasets that you downloaded and used in the notebook | Figures and Plots (if not already included in the report or notebook) | . | . ",
+    "url": "/sp24/proj3/#submission-checklists",
+    
+    "relUrl": "/proj3/#submission-checklists"
+  },"32": {
+    "doc": "Project 3",
+    "title": "Important Notes",
+    "content": ". | Please do not reach out to Professor Ted Miguel or any of his co-authors with questions about the replications. Direct all questions to course staff: Peter, Rohan, or Professor Van Dusen. | During the time of the project, all discussion sections will be turned into optional OH for your group to ask any clarifiying questions. We strongly encourage you (and your group) to attend these! | Course staff may share, with the consent of the group, the best replications with the authors of the paper. | A lot of the code for the original papers is written in Stata (using .do/.dta files). Rohan will hold a lecture on translating Stata to Python using a Python package he built (Stata2Python). You may also find Google and ChatGPT helpful for this, but please ensure your code is free of errors and you understand what’s going on. Do not simply just copy-and-paste! | . ",
+    "url": "/sp24/proj3/#important-notes",
+    
+    "relUrl": "/proj3/#important-notes"
+  },"33": {
     "doc": "Resources",
     "title": "Resources 💻",
     "content": " ",
     "url": "/sp24/resources/#resources-",
     
     "relUrl": "/resources/#resources-"
-  },"24": {
+  },"34": {
     "doc": "Resources",
     "title": "Textbook",
     "content": "We’ve got a textbook for this course! It’s written by our wonderful uGSI Rohan Jha, and is a massive resource to build a solid foundation of data science for economists. We’ll make sure to link relevant readings as the course progresses, but feel free to read ahead. ",
     "url": "/sp24/resources/#textbook",
     
     "relUrl": "/resources/#textbook"
-  },"25": {
+  },"35": {
     "doc": "Resources",
     "title": "Documentation",
     "content": "In this course, you’ll become familiar with reading lots of documentation. If you’re not sure how a function works, you should type the name of the function in a cell by itself followed by ? and run the cell (so for example, numpy.sum?). This will show you that function’s documentation. Official resources for you to refer to: . | Python documentation | NumPy documentation | Pandas documentation | . ",
     "url": "/sp24/resources/#documentation",
     
     "relUrl": "/resources/#documentation"
-  },"26": {
+  },"36": {
     "doc": "Resources",
     "title": "Past Exams",
     "content": "Here is a collection of our prior exams. | Semester | Midterm | Final | . | Spring 2023 | Exam (Solutions) | Data Task, Conceptual (Data Task Solutions, Conceptual Solutions) | . Midterm . | The discussions! | Review Slides (Spring 2023) | Reference Sheet | Example Questions (Solutions) | . ",
     "url": "/sp24/resources/#past-exams",
     
     "relUrl": "/resources/#past-exams"
-  },"27": {
+  },"37": {
     "doc": "Resources",
     "title": "Supplementary Readings",
     "content": "Each of the listed online textbooks/readings will contain some material that is not in scope for our class. They all cover the fundamentals of Python, but in slightly different ways. As a reminder, you’re not required to look at any of these; only look if you think they’ll help you. | Learning Data Science, the textbook for Data 100 at UC Berkeley. It is an introductory textbook for data science that will be published with O’Reilly Media in 2023. It covers foundational skills in programming and statistics that encompass the data science lifecycle. | Computational and Inferential Thinking, the textbook for Data 8 at UC Berkeley. | Stanford’s Python Reference, a Python guide written for Stanford’s intro CS class, is a great reference if you need a refresher on how something works. | Python Programming for Data Science and Dive Into Data Science are also good references that are written for different classes (at UBC and UCSD, respectively) that cover the material relevant in our class and more. | Composing Programs, the textbook for CS 61A and CS 88 at UC Berkeley, covers Python from a more traditional computer science perspective rather than the data science perspective we will take; as such, only a few sub-chapters are relevant to us but you may find it useful nonetheless. | How to Think Like a Computer Scientist is also a great reference. | . ",
     "url": "/sp24/resources/#supplementary-readings",
     
     "relUrl": "/resources/#supplementary-readings"
-  },"28": {
+  },"38": {
     "doc": "Resources",
     "title": "Other",
     "content": ". | Pandas Tutor | Data 100 Regex Reference Sheet | Data 8 Python reference | . Throughout the semester, if you find any external resource (especially one that isn’t linked above) particularly helpful, please let us know! . ",
     "url": "/sp24/resources/#other",
     
     "relUrl": "/resources/#other"
-  },"29": {
+  },"39": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "/sp24/resources/",
     
     "relUrl": "/resources/"
-  },"30": {
+  },"40": {
     "doc": "Staff",
     "title": "Staff 🧑‍🏫",
     "content": " ",
     "url": "/sp24/staff/#staff-",
     
     "relUrl": "/staff/#staff-"
-  },"31": {
+  },"41": {
     "doc": "Staff",
     "title": "Instructor",
     "content": "Email the instructor with any questions about the class. Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. ",
     "url": "/sp24/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"32": {
+  },"42": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Peter Flo Grinde-Hollevik he/him . hollevik@berkeley.edu . Huhey! I’m Peter, a senior double-majoring in Data Science and Environmental Economics and Policy. I’m passionate about finding new solution for a more sustainable future and international poverty alleviation and would love to pursue a P.hD in the future. I spend my free time hiking, climbing, skiing, and reading books that humble me as often as I can. Rohan Jha he/him . rohan.jha@berkeley.edu . Heyo! I’m Rohan, a senior double majoring in economics and data science. Talk to me about economics research, hiking or cooking. Looking forward to meeting you all! . ",
     "url": "/sp24/staff/",
     
     "relUrl": "/staff/"
-  },"33": {
+  },"43": {
     "doc": "Syllabus",
     "title": "Syllabus 📖",
     "content": " ",
     "url": "/sp24/syllabus/#syllabus-",
     
     "relUrl": "/syllabus/#syllabus-"
-  },"34": {
+  },"44": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Communication 💬 | About 🧐 | Course Structure 🍎 . | Lecture | Discussion Section | Lab and Project | Office Hours and Ed | Exams | . | Technology 🖥 | Policies ✏️ . | Grading . | Participation | Surveys | Labs | Projects | . | Late Policy and Extensions | Regrade Requests | Academic Honesty | Inclusion | Accommodations | . | Acknowledgements 🙏 | . Note: See here for information about enrollment. ",
     "url": "/sp24/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"35": {
+  },"45": {
     "doc": "Syllabus",
     "title": "Communication 💬",
     "content": "This semester, we’ll be using Ed to communicate. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staff if you’re not sure how to access it. Important Note: Staff will not be answering content questions on Ed. Ed is supposed to be a student-run platform in this class; students are encouraged to answer content-related questions instead. Your activity on Ed will be taken into account for your participation grade. We will not be using bCourses at all in this class; this website and Ed serve as replacements. ",
     "url": "/sp24/syllabus/#communication-",
     
     "relUrl": "/syllabus/#communication-"
-  },"36": {
+  },"46": {
     "doc": "Syllabus",
     "title": "About 🧐",
     "content": "From the course catalog: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work. Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization. The course will cover many aspects of preparing data for econometric analysis. Practices around literate code, open science tools, reproducibility, and data management will also be covered. Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc. Note that Data 8 (or Stat 20 and familiarity with Python) is a prerequisite to this class, but Data 100 or Econ 140/141 is not. This class serves a different purpose than several other classes that may sound similar. Specifically: . | Data 8: Starting from a Data 8 background, this course dives deeper into Python and its applications in economics. After taking this class, you will be able to obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research. | Data 100: Econ 148 is potentially an alternative to Data 100, for students who do not have the prereqs of CS61A and Math 54, and with more focus on data science techniques relevant to economics. Students who have taken Data 100 are suggested NOT to take this class. And, if you can take Data 100 you should take Data 100. | Data 88E: Econ 148 is a “followup” to Data 88E. You will learn more data science skills with real-life datasets. We will also use “industry-standard” packages (e.g. Pandas), the ones that are actually being used in research and workplaces. | CS 61A and CS 88: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. | Econ 140/141: Econ 140/141 focuses more on how to arrive at the right conclusion using statistical techniques (like various forms of regressions) given a cleaned dataset. Econ 148 focuses more on how to get this dataset, make it a cleaned dataset, and produce exploratory data analysis before diving into main regression. (This is not a trivial portion! Economists spend around 1/3 of their time on getting and cleaning data when doing empirical research!) | . If you have already taken the prerequisite Data 8, and are interested in learning more about how to apply data science skills in economics – welcome! You’re in the right place 😎. The rough topic breakdown is as follows: . | Pandas | Sourcing Data - API and elements of SQL | Exploratory Data Analysis | Cleaning and Wrangling Data | Visualization - Matplotlib / Seaborn / Plotly / Geopandas | Preparing Datasets for Econometric Analysis | Survival Analysis | Time Series | Introduction to ML | . Lecture and Discussion slides and code will be posted after each section, and they will cover everything you are required to know for the course. Also, note that the course will emphasize the use of real-world data. Some possible datasets include: . | IPUMS microdata on outcomes of college education | FRED data on macro indicators | Zillow data on cost of housing | Who owns real estate in Dubai | Telco Churn / Credit Risk | . You will leave the course being able to independently apply the skills you’ve learned to datasets of your own choosing. ",
     "url": "/sp24/syllabus/#about-",
     
     "relUrl": "/syllabus/#about-"
-  },"37": {
+  },"47": {
     "doc": "Syllabus",
     "title": "Course Structure 🍎",
-    "content": "Lecture . There will be two lectures a week. In lectures, we’ll introduce you to new ideas and concepts in data science oriented for economists. Lecture attendance and participation is a part of your participation grade; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. Note: Lecture recordings will only be accessible to students in the course. During each lecture, there will be a point (or more) at which we stop and ask you to answer a short question via Poll Everywhere. We call these questions Quick Checks. They serve three purposes: . | For us to get a gauge of how well the class understands the material we’re currently covering | For you to get a gauge of how well you understand the material we’re currently covering | For us to record lecture participation | . Quick Checks are graded on completion, not correctness. It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. Discussion Section . There is one discussion section a week that is held by Peter and Rohan, our UGSIs. Discussion attendance and activity is a part of your participation grade, and the midterm will be heavily based on the section material. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week’s material, resulting in a summary slide well worth reviewing ahead of your midterm and projects. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you’re expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. Expectations towards the students: . | Participation in class activity. This is incredibly important; the entire class will benefit from a highly collaborative environment while learning data science. | Academic Integrity and Honesty per the Berkeley Honor Code. | Accommodations are done through the office of DSP in due time prior to the start of the event where accommodations are needed. | Should technical support be needed, please contact Student Technological Services ahead of time. You’ll need either a laptop/mac or a large tablet in this class. | . Lab and Project . You learn data science by doing data science, not by listening or reading about it. As such, labs and projects will be your primary source of learning in this class. Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you’re on the right track or not. However, for the projects, the local autograders are not comprehensive – we will have additional hidden tests. Most labs and projects will also include a few “written” problems, where you have to type your answer in text. These problems will be manually graded. There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released after lectures on Thursday. Labs will be due the following Friday at midnight (11:59PM), and projects will be due several weeks later at Friday at midnight. See the Policies section for our extensions and late submissions policy, as well as our drop policy. All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. Office Hours and Ed . In addition to lectures and labs, we will host several office hours a week. In office hours, you’ll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. In the past, OHs have felt very much like co-working spaces that you’ll encounter in your future professional lives! . Furthermore, you’re encouraged to ask and answer questions about assignments and concepts on Ed. As a reminder, Ed will be a student-run forum this semester and you are expected to answer questions on Ed. Exams . We will have an in-class midterm that covers the first half of the course materials. More relevant logistics for exams will be announced on Ed. ",
+    "content": "Lecture . There will be two lectures a week. In lectures, we’ll introduce you to new ideas and concepts in data science oriented for economists. Lecture attendance and participation is a part of your participation grade; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. Note: Lecture recordings will only be accessible to students in the course. During each lecture, there will be a point (or more) at which we stop and ask you to answer a short question via Poll Everywhere. We call these questions Quick Checks. They serve three purposes: . | For us to get a gauge of how well the class understands the material we’re currently covering | For you to get a gauge of how well you understand the material we’re currently covering | For us to record lecture participation | . Quick Checks are graded on completion, not correctness. It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. Discussion Section . There is one discussion section a week that is held by Peter and Rohan, our UGSIs. Discussion attendance and activity is a part of your participation grade, and the midterm will be heavily based on the section material. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week’s material, resulting in a summary slide well worth reviewing ahead of your midterm and projects. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you’re expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. Expectations towards the students: . | Participation in class activity. This is incredibly important; the entire class will benefit from a highly collaborative environment while learning data science. | Academic Integrity and Honesty per the Berkeley Honor Code. | Accommodations are done through the office of DSP in due time prior to the start of the event where accommodations are needed. | Should technical support be needed, please contact Student Technological Services ahead of time. You’ll need either a laptop/mac or a large tablet in this class. | . Lab and Project . You learn data science by doing data science, not by listening or reading about it. As such, labs and projects will be your primary source of learning in this class. Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you’re on the right track or not. However, for the projects, the local autograders are not comprehensive – we will have additional hidden tests. Most labs and projects will also include a few “written” problems, where you have to type your answer in text. These problems will be manually graded. There will be 9 labs and 3 projects in total. In general, lab and project assignments will be released after lectures on Thursday. Labs will be due the following Friday at midnight (11:59PM), and projects will be due several weeks later at Friday at midnight. See the Policies section for our extensions and late submissions policy, as well as our drop policy. All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. Office Hours and Ed . In addition to lectures and labs, we will host several office hours a week. In office hours, you’ll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. In the past, OHs have felt very much like co-working spaces that you’ll encounter in your future professional lives! . Furthermore, you’re encouraged to ask and answer questions about assignments and concepts on Ed. As a reminder, Ed will be a student-run forum this semester and you are expected to answer questions on Ed. Exams . We will have an in-class midterm that covers the first half of the course materials. More relevant logistics for exams will be announced on Ed. ",
     "url": "/sp24/syllabus/#course-structure-",
     
     "relUrl": "/syllabus/#course-structure-"
-  },"38": {
+  },"48": {
     "doc": "Syllabus",
     "title": "Technology 🖥",
     "content": "We will be using several websites this semester. Here’s what they’re all used for: . | Course Website: where all content will be posted. | Textbook: textbook that accompanies the course. | Ed: discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. | DataHub: where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.) | Gradescope: where all labs and projects are submitted and all grades live. (Not bCourses! 🙅) | Poll Everywhere : this is where we will do class checks and attendance checks! | . ",
     "url": "/sp24/syllabus/#technology-",
     
     "relUrl": "/syllabus/#technology-"
-  },"39": {
+  },"49": {
     "doc": "Syllabus",
     "title": "Policies ✏️",
-    "content": "Grading . Here’s how we will compute your grade. | Component | Weight | Notes | . | Participation | 15% | Including lectures, discussion sections, and Ed | . | Labs | 25% | 1 lab drop | . | Projects 1 + 2 | 20% | no drops | . | Project 3 | 15% |   | . | Midterm | 25% |   | . Participation . Attendance will be taken for all lectures and discussions, and Ed activity will be tracked. In addition, we will take into account lecture and discussion activity beyond just attendance; people who actively participate will be given a higher score. Surveys . Since this is a new-ish (2nd offering) class, we’re very interested in receiving your feedback as to how it’s going and how we can improve. As such, we will have feedback survey for you to fill out at the end of very lab. These are a part of your lab grade, and you get a score for completing them (although they’re completely anonymous). There is also a general feedback form where you can share your feedback anonymously at any point throughout the semester. Labs . There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). One free response question will be randomly selected for manual grading in each lab. This free response question will count for 10 to 20% of your grade for that respective lab. You will have 1 lab drop to be used at any time throughout the semester. Projects . There will be 3 projects in total. Projects 1 and 2 have a weight of 10% each, while project 3 has a weight of 15%. Projects are graded by correctness (both the autograded and the free-response questions). There will be hidden tests for projects. Late Policy and Extensions . Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small grace period of 3 minutes (until 12:02 am) to account for any technical difficulties. It is your responsibility to be proactive about your submissions; staff are not expected to be active on midnight to help you with submission issues. Students are allowed to submit labs and projects late for a 50% penalty within 48 hours after they are due, after which they will receive no credit. We will factor in late submissions when we’re calculating grades at the end of the semester. Extensions: We know this is a stressful time, and we don’t want to penalize you because of circumstances that are out of your control. To request an extension, please submit this google form as soon as possible (definitely before the deadline). As long as your request is within reason, there’s a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required. Regrade Requests . When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed or are made outside of the designated regrade window will not be considered. Academic Honesty . You must write your answers in your own words, and you must not plagiarize your completed work. Every semester we have to deal with people who share answers, attendance passwords, and code. We can see it and we can test for it with a detection script. Make a serious attempt at every assignment yourself. If you get stuck, read the supporting code, refer to examples in the lectures and discussion sections. After that, go ahead and discuss any remaining doubts with others, especially the course staff during office hours. That way you will get the most out of the course content. You are also not permitted to turn in answers or code that you have obtained from others. Not only is such copying dishonest, it misses the point of the assignments, which is not for you to find the answers somewhere and send them along to the staff. It is for you to figure out how to solve the problems, with the support available in the course. The landscape of using AI for help with coding is rapidly changing. To succeed in the class, you will need to learn fundamental concepts without assistance from AI. For one example, you will not be allowed to use AI for the in-class, handwritten midterm. Use common sense and cite any AI you do use. Flagrant and obvious use of AI will not demonstrate your understanding of the concept and will lead to grading penalties. We have all used AI for help with coding, and we have seen that using AI without a solid understanding of the fundamentals can lead to incorrect, buggy and inefficient code. Please read Berkeley’s Code of Conduct carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the Center for Student Conduct. They might also include a F in the course or even dismissal from the university. It’s just not worth it. Data science is a collaborative activity. As such, we encourage you to discuss assignments with others. Go on Ed and discuss with other students. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. You are not alone in this course! We’re here to help you succeed. If you invest the time to learn the material and complete the assignments, you won’t need to copy any answers. If you use code you found online, please cite it in a comment. Inclusion . The instructor and course staff are committed to creating an inclusive learning environment, one that welcomes all students and supports a diversity of beliefs, thoughts, perspectives, values, and experiences, and one that respects all identities and backgrounds (including race/ethnicity, nationality, gender, class, religion, ability, sexual orientation, etc.) . To help accomplish this: . | If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with the instructor or course staff. We are here to be a resource for you. | We are here to learn, and sometimes along the way we make mistakes. If something is said in class that makes you feel uncomfortable, please come and talk to the instructor or course staff about it. | As a participant in this class, you should strive to respect the diversity and experiences of your classmates. | . Accommodations . If you have any special needs or require ability-related accommodations, please notify the instructor as soon as possible. If an unexpected personal or medical challenge is interfering with your ability to complete assignments and/or attend class, it is important that you contact the instructor or course staff as early as possible. Further resources are available through the Disabled Students Program. ",
+    "content": "Grading . Here’s how we will compute your grade. | Component | Weight | Notes | . | Participation | 15% | Including lectures, discussion sections, and Ed | . | Labs | 25% | 1 lab drop | . | Projects 1 + 2 | 20% | no drops | . | Project 3 | 15% |   | . | Midterm | 25% |   | . Participation . Attendance will be taken for all lectures and discussions, and Ed activity will be tracked. In addition, we will take into account lecture and discussion activity beyond just attendance; people who actively participate will be given a higher score. Surveys . Since this is a new-ish (2nd offering) class, we’re very interested in receiving your feedback as to how it’s going and how we can improve. As such, we will have feedback survey for you to fill out at the end of very lab. These are a part of your lab grade, and you get a score for completing them (although they’re completely anonymous). There is also a general feedback form where you can share your feedback anonymously at any point throughout the semester. Labs . There will be 9 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). One free response question will be randomly selected for manual grading in each lab. This free response question will count for 10 to 20% of your grade for that respective lab. You will have 1 lab drop to be used at any time throughout the semester. Projects . There will be 3 projects in total. Projects 1 and 2 have a weight of 10% each, while project 3 has a weight of 15%. Projects are graded by correctness (both the autograded and the free-response questions). There will be hidden tests for projects. Late Policy and Extensions . Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small grace period of 3 minutes (until 12:02 am) to account for any technical difficulties. It is your responsibility to be proactive about your submissions; staff are not expected to be active on midnight to help you with submission issues. Students are allowed to submit labs and projects late for a 50% penalty within 48 hours after they are due, after which they will receive no credit. We will factor in late submissions when we’re calculating grades at the end of the semester. Extensions: We know this is a stressful time, and we don’t want to penalize you because of circumstances that are out of your control. To request an extension, please submit this google form as soon as possible (definitely before the deadline). As long as your request is within reason, there’s a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required. Regrade Requests . When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed or are made outside of the designated regrade window will not be considered. Academic Honesty . You must write your answers in your own words, and you must not plagiarize your completed work. Every semester we have to deal with people who share answers, attendance passwords, and code. We can see it and we can test for it with a detection script. Make a serious attempt at every assignment yourself. If you get stuck, read the supporting code, refer to examples in the lectures and discussion sections. After that, go ahead and discuss any remaining doubts with others, especially the course staff during office hours. That way you will get the most out of the course content. You are also not permitted to turn in answers or code that you have obtained from others. Not only is such copying dishonest, it misses the point of the assignments, which is not for you to find the answers somewhere and send them along to the staff. It is for you to figure out how to solve the problems, with the support available in the course. The landscape of using AI for help with coding is rapidly changing. To succeed in the class, you will need to learn fundamental concepts without assistance from AI. For one example, you will not be allowed to use AI for the in-class, handwritten midterm. Use common sense and cite any AI you do use. Flagrant and obvious use of AI will not demonstrate your understanding of the concept and will lead to grading penalties. We have all used AI for help with coding, and we have seen that using AI without a solid understanding of the fundamentals can lead to incorrect, buggy and inefficient code. Please read Berkeley’s Code of Conduct carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the Center for Student Conduct. They might also include a F in the course or even dismissal from the university. It’s just not worth it. Data science is a collaborative activity. As such, we encourage you to discuss assignments with others. Go on Ed and discuss with other students. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. You are not alone in this course! We’re here to help you succeed. If you invest the time to learn the material and complete the assignments, you won’t need to copy any answers. If you use code you found online, please cite it in a comment. Inclusion . The instructor and course staff are committed to creating an inclusive learning environment, one that welcomes all students and supports a diversity of beliefs, thoughts, perspectives, values, and experiences, and one that respects all identities and backgrounds (including race/ethnicity, nationality, gender, class, religion, ability, sexual orientation, etc.) . To help accomplish this: . | If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with the instructor or course staff. We are here to be a resource for you. | We are here to learn, and sometimes along the way we make mistakes. If something is said in class that makes you feel uncomfortable, please come and talk to the instructor or course staff about it. | As a participant in this class, you should strive to respect the diversity and experiences of your classmates. | . Accommodations . If you have any special needs or require ability-related accommodations, please notify the instructor as soon as possible. If an unexpected personal or medical challenge is interfering with your ability to complete assignments and/or attend class, it is important that you contact the instructor or course staff as early as possible. Further resources are available through the Disabled Students Program. ",
     "url": "/sp24/syllabus/#policies-%EF%B8%8F",
     
     "relUrl": "/syllabus/#policies-️"
-  },"40": {
+  },"50": {
     "doc": "Syllabus",
     "title": "Acknowledgements 🙏",
     "content": "This class is loosely based on Data C100 and Data 88E. When creating Econ 148, we’ve referred to the materials of several other courses: . | Data 8 | Data 100 | ERE 131 | DS Modules | . The website uses Just the Class. ",
     "url": "/sp24/syllabus/#acknowledgements-",
     
     "relUrl": "/syllabus/#acknowledgements-"
-  },"41": {
+  },"51": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
