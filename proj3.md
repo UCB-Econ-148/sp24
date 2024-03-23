@@ -27,7 +27,7 @@ In addition, there will be one checkpoint due on **Friday, April 12, 2024**.
 ## Groups
 This is a group project. Good collaboration and leadership will be needed for a successful replication. We ask that you organize yourself in groups of 4. Groups may have members from different discussion sections. We encourage you to use Ed as a place to look for team members, as well as the following [form](https://forms.gle/Z3UUcFPcUMAaBPYY8).
 
-If you are looking for a group to join or if you're a group looking for additional members, please fill out this [form](https://forms.gle/Z3UUcFPcUMAaBPYY8) before **Friday April 5th, 11:59pm**. We will fill groups short of members by Monday April 8th.
+If you are looking for a group to join or if you are in a group looking for additional members, please fill out this [form](https://forms.gle/Z3UUcFPcUMAaBPYY8) before **Friday April 5th, 11:59pm**. We will fill groups short of members by Monday April 8th.
 
 
 ---
