@@ -120,10 +120,10 @@ There are a total of 58 papers published on Ted Miguel's Dataverse. Some contain
 
 ### Checkpoint (due Friday, April 12, 2024)
 
-This will be a separate gradescope assignment that will be due earlier. You must include:    
+This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. You must include:    
 - Group composition (names and assigned responsibilities).
 - Chosen paper.
-- Screenshots of an project organization (including data, notebook, code).
+- Screenshots of the project code organization (including any relevant data/notebook/code).
 - Screenshots of LaTeX project in Overleaf following the I4R template.
 - A description of what you have attempted to do so far.
 - A summary of what's going well and what you are struggling with.
