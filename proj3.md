@@ -59,6 +59,7 @@ For more information on different forms of reproducibility, please see The Insti
 
 Your final delivarable should be a Replication Report following the I4R framework. It should be submitted as a PDF, typed up in LaTeX (Chat-GPT can be really helpful for this). Please use the [LaTeX template](https://osf.io/zt5f2) attached. Read the replicaton report template carefully as it contains all the information you need to pursue for a successful replication. Knowing LaTeX is a super-power and makes your work look really pretty!
 
+Past replication reports have taken 10-15 pages, although we will not be checking the page count very carefully. That being said, please be concise in your work. Writing more information than necessary often comes at the cost of clarity. Your communication and presentation is very important for a replication exercise.
 
 In addition, you should submit a [well-organized](https://towardsdatascience.com/how-to-keep-your-research-projects-organized-part-1-folder-structure-10bd56034d3a), compressed (`.zip`) folder that contains a Jupyter notebook and all the data used. We should be able to replicate your work by running the notebook locally on our computers.
 
@@ -122,7 +123,7 @@ There are a total of 58 papers published on Ted Miguel's Dataverse. Some contain
 
 ### Checkpoint (due Friday, April 12, 2024)
 
-This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. You must include:    
+This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. Everything must be submitted as a pdf, although it's fine if this pdf is not written in LaTeX (but the final submission must be written in LaTeX). You must include:    
 - Group composition (names and assigned responsibilities).
 - Chosen paper.
 - Screenshots of the project code organization (including any relevant data/notebook/code).
