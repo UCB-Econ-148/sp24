@@ -29,7 +29,7 @@
   },"4": {
     "doc": "Home",
     "title": "Data Science for Economists",
-    "content": "UC Berkeley, Spring 2024 . PollEV Ed Gradescope Lecture Recordings Extenuating Circumstances Anonymous Feedback . Instructor: . Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. Lecture: Tuesday’s and Thursday’s, 2:00 - 3:30 PM, Lewis 100 . Office Hours: see Calendar and Ed . Welcome to Week 9 of Econ 148! . | The schedule and dates listed below are tentative and may be subject to change. | All announcements will be made via Ed. | The Syllabus contains a detailed explanation of how each course component will work this semester | If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. | . ",
+    "content": "UC Berkeley, Spring 2024 . PollEV Ed Gradescope Lecture Recordings Extenuating Circumstances Anonymous Feedback . Instructor: . Eric Van Dusen he/him . ericvd@berkeley.edu . Hi - I am a lecturer in Data Science as well as a staff member helping to build out Data Science Undergraduate Studies. I am passionate about how Data Science approaches can bring innovation to teaching and learning in all disciplines. I love trail running, kayaking, camping and exploring. Lecture: Tuesday’s and Thursday’s, 2:00 - 3:30 PM, Lewis 100 . Office Hours: see Calendar and Ed . Welcome to Week 12 of Econ 148! . | The schedule and dates listed below are tentative and may be subject to change. | All announcements will be made via Ed. | The Syllabus contains a detailed explanation of how each course component will work this semester | If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. | . ",
     "url": "/sp24/#data-science-for-economists",
     
     "relUrl": "/#data-science-for-economists"
@@ -120,7 +120,7 @@
   },"17": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "April 2 Lecture 20 April 4 Lecture 21 . ",
+    "content": "April 2 Lecture 20Slides, TimePandas, Prophet1, Prophet2, Prophet3 Discussion 9 Slides . Lab 9Time Series (due 4/5) April 4 Lecture 21 . ",
     "url": "/sp24/#week-12",
     
     "relUrl": "/#week-12"
@@ -183,7 +183,7 @@
   },"26": {
     "doc": "Project 3",
     "title": "Groups",
-    "content": "This is a group project. Good collaboration and leadership will be needed for a successful replication. We ask that you organize yourself in groups of 4. Groups may have members from different discussion sections. We encourage you to use Ed as a place to look for team members, as well as the following form. If you are looking for a group to join or if you are in a group looking for additional members, please fill out this form before Friday April 5th, 11:59pm. We will fill groups short of members by Monday April 8th. ",
+    "content": "This is a group project. Good collaboration and leadership will be needed for a successful replication. We ask that you organize yourself in groups of 4. Groups may have members from different discussion sections. We encourage you to use Ed as a place to look for team members, as well as the following form. If you are looking for a group to join or if you are in a group looking for additional members, please fill out this form before Friday April 5th, 11:59pm. We will fill groups short of members by Monday April 8th. Every group must have only 1 member fill out this form, even if you already have 4 people in your group. ",
     "url": "/sp24/proj3/#groups",
     
     "relUrl": "/proj3/#groups"
