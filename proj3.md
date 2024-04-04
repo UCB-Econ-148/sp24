@@ -3,7 +3,7 @@ layout: default
 title: Project 3
 nav_order: 6
 description: Project 3 instructions, specifications, and rubrics. 
-nav_exclude: true
+#nav_exclude: true
 ---
 
 # Project 3
