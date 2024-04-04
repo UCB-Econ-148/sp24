@@ -25,6 +25,7 @@ Here is a collection of our prior exams.
 
 | Semester | Midterm | Final |
 | --- | --- | --- |
+| Spring 2024 | [Exam](https://drive.google.com/file/d/1rPAnI79be0QSwMYHGGzP2VfmWUXpnzj6/view?usp=sharing) ([Solutions](https://drive.google.com/file/d/1-sJLY_T8hDFV0ez3iHC5cqPWx7pLSnB4/view?usp=sharing), [Reference Sheet](https://drive.google.com/file/d/1M1rGJHBYV7oa8Zk4MkiMu_a-a5evH7i9/view?usp=sharing)) | --- |
 | Spring 2023 | [Exam](https://drive.google.com/file/d/1jxz1SmqidKlkgul4okuogQzeTC8Re-co/view?usp=sharing) ([Solutions](https://drive.google.com/file/d/1MvOErnR37l4cCD3K9ytGHwzpQl9nKmw5/view?usp=sharing)) | [Data Task](https://drive.google.com/file/d/1hRDgJeW8w8GzKVDvEPYQHIZwQWSYH7Vr/view?usp=sharing), Conceptual ([Data Task Solutions](https://drive.google.com/file/d/1gdei3ykEwEY5NgR7-GBu1Nnm-CVb_xQS/view?usp=sharing), [Conceptual Solutions](https://drive.google.com/file/d/181BDgEC_ZYw_dNbTvOKt2ySJWOvsgDSd/view?usp=sharing))|
 
 ### Midterm
