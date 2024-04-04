@@ -123,7 +123,7 @@ There are a total of 58 papers published on Ted Miguel's Dataverse. Some contain
 
 ### Checkpoint (due Friday, April 12, 2024)
 
-This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. Everything must be submitted as a pdf, although it's fine if this pdf is not written in LaTeX (but the final submission must be written in LaTeX). You must include:    
+This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. Everything must be submitted in a single pdf. You must include:    
 - Group composition (names and assigned responsibilities).
 - Chosen paper.
 - Screenshots of the project code organization (including any relevant data/notebook/code).
