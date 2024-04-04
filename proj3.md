@@ -3,7 +3,7 @@ layout: default
 title: Project 3
 nav_order: 6
 description: Project 3 instructions, specifications, and rubrics. 
-nav_exclude: true
+#nav_exclude: true
 ---
 
 # Project 3
@@ -27,7 +27,9 @@ In addition, there will be one checkpoint due on **Friday, April 12, 2024**.
 ## Groups
 This is a group project. Good collaboration and leadership will be needed for a successful replication. We ask that you organize yourself in groups of 4. Groups may have members from different discussion sections. We encourage you to use Ed as a place to look for team members, as well as the following [form](https://forms.gle/Z3UUcFPcUMAaBPYY8).
 
-If you are looking for a group to join or if you are in a group looking for additional members, please fill out this [form](https://forms.gle/Z3UUcFPcUMAaBPYY8) before **Friday April 5th, 11:59pm**. We will fill groups short of members by Monday April 8th.
+If you are looking for a group to join or if you are in a group looking for additional members, please fill out this [form](https://forms.gle/Z3UUcFPcUMAaBPYY8) before **Friday April 5th, 11:59pm**. We will fill groups short of members by Monday April 8th. 
+
+**Every group must have only 1 member fill out this [form](https://forms.gle/Z3UUcFPcUMAaBPYY8), even if you already have 4 people in your group.**
 
 
 ---
@@ -57,6 +59,7 @@ For more information on different forms of reproducibility, please see The Insti
 
 Your final delivarable should be a Replication Report following the I4R framework. It should be submitted as a PDF, typed up in LaTeX (Chat-GPT can be really helpful for this). Please use the [LaTeX template](https://osf.io/zt5f2) attached. Read the replicaton report template carefully as it contains all the information you need to pursue for a successful replication. Knowing LaTeX is a super-power and makes your work look really pretty!
 
+Past replication reports have taken 10-15 pages, although we will not be checking the page count very carefully. That being said, please be concise in your work. Writing more information than necessary often comes at the cost of clarity. Your communication and presentation is very important for a replication exercise.
 
 In addition, you should submit a [well-organized](https://towardsdatascience.com/how-to-keep-your-research-projects-organized-part-1-folder-structure-10bd56034d3a), compressed (`.zip`) folder that contains a Jupyter notebook and all the data used. We should be able to replicate your work by running the notebook locally on our computers.
 
@@ -120,7 +123,7 @@ There are a total of 58 papers published on Ted Miguel's Dataverse. Some contain
 
 ### Checkpoint (due Friday, April 12, 2024)
 
-This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. You must include:    
+This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. Everything must be submitted in a single pdf. You must include:    
 - Group composition (names and assigned responsibilities).
 - Chosen paper.
 - Screenshots of the project code organization (including any relevant data/notebook/code).
