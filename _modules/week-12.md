@@ -15,3 +15,4 @@ April 2
 April 4
 : **Lecture 21**{: .label .label-lecture }
 [Slides](https://docs.google.com/presentation/d/1jETeQn5boAMb4uJWL4j5fLBPFs0wgCmwHbitor2SQWw/edit?usp=sharing ){:target="_blank"},  [Prophet4]( https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp24&branch=main&urlpath=lab%2Ftree%2Fecon148-sp24%2Flec%2FLec11.2%2FProphetDemo3.ipynb){:target="_blank"}
+: **Project 3**{: .label .label-hw }[Replication](https://www.econ148.org/sp24/proj3/) (due 4/26; Checkpoint 4/12)
