@@ -9,5 +9,5 @@ April 9
 
 
 April 11
-: **Lecture 23**{: .label .label-lecture }
+: **Lecture 23**{: .label .label-lecture } [Slides](https://docs.google.com/presentation/d/1we3NQU115HxIQuglRNyvIxZX8pbt1Mmpf3kd7QIpOgg/edit?usp=sharing)
 
