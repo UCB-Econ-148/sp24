@@ -73,8 +73,8 @@ Here is the list of deliverables and the grading rubrics. See the replication re
 | ----------- | ----------- |
 | Abstract | 5%  | 
 | Introduction | 5% |
-| Reproducibility | 5% |
-| Replication | 25% |
+| Reproducibility | 20% |
+| Checkpoint 2 (More Details Later) | 10% |
 | Conclusion | 5% |
 | Clarity, Style and Presentation | 5% |
 
