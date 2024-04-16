@@ -134,7 +134,7 @@ This will be a separate gradescope assignment that will be due earlier. There is
 
 ### Checkpoint 2 (due Sunday, April 21, 2024)
 
-One person from your group must fill out this [google form](https://forms.gle/H564sFeaUyeDSoZV6) for the checkpoint. Note that while you have space to discuss upto 5 results, you are only required to discuss 3.
+One person from your group must fill out this [google form](https://forms.gle/H564sFeaUyeDSoZV6) for the checkpoint. Note that while you have space to discuss up to 5 results, you are only required to discuss 3.
    
 ### Project (due Friday, April 26, 2024)
   
