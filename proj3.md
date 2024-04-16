@@ -74,7 +74,7 @@ Here is the list of deliverables and the grading rubrics. See the replication re
 | Abstract | 5%  | 
 | Introduction | 5% |
 | Reproducibility | 20% |
-| Checkpoint 2 (More Details Later) | 10% |
+| Checkpoint 2 (see [link](https://forms.gle/H564sFeaUyeDSoZV6)) | 10% |
 | Conclusion | 5% |
 | Clarity, Style and Presentation | 5% |
 
@@ -83,7 +83,7 @@ Here is the list of deliverables and the grading rubrics. See the replication re
 
 | Deliverable | Points |
 | ----------- | ----------- |
-| Checkpoint (see details [below](#submission-checklists)) | 15% |
+| Checkpoint 1 (see details [below](#submission-checklists)) | 15% |
 | Data Cleaning & Pre-Processing | 5% |
 | Modeling (regressions) | 10% |
 | Visualizations (figures, tables) | 15% |
@@ -121,7 +121,7 @@ There are a total of 58 papers published on Ted Miguel's Dataverse. Some contain
 ---
 ## Submission Checklists
 
-### Checkpoint (due Friday, April 12, 2024)
+### Checkpoint 1 (due Friday, April 12, 2024)
 
 This will be a separate gradescope assignment that will be due earlier. There is no need to submit any code, a write-up of your progress so far (preferably in LaTeX) will suffice. Everything must be submitted in a single pdf. You must include:    
 - Group composition (names and assigned responsibilities).
@@ -131,6 +131,10 @@ This will be a separate gradescope assignment that will be due earlier. There is
 - A description of what you have attempted to do so far.
 - A summary of what's going well and what you are struggling with.
 - A note on how course staff may help you succeed.
+
+### Checkpoint 2 (due Sunday, April 21, 2024)
+
+One person from your group must fill out this [google form](https://forms.gle/H564sFeaUyeDSoZV6) for the checkpoint. Note that while you have space to discuss upto 5 results, you are only required to discuss 3.
    
 ### Project (due Friday, April 26, 2024)
   
