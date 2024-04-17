@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: >-
     Data Science for Economists, UC Berkeley, Spring 2024
-currWeekNumber: 13
+currWeekNumber: 14
 ---
 
 # Data Science for Economists
