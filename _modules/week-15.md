@@ -14,4 +14,4 @@ April 23
 
 April 25
 : **Lecture 27**{: .label .label-lecture }
-
+[Slides](https://docs.google.com/presentation/d/15L6TzmJvGGEZUwUwtwUxvebVfcXLQXTXCdwh-G4mboM/edit?usp=sharing){:target="_blank"},
